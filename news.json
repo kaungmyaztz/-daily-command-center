@@ -1,0 +1,45 @@
+{
+  "updatedAt": "2026-08-20T16:50:33.748Z",
+  "stories": [
+    {
+      "category": "LOCAL",
+      "className": "local",
+      "title": "Demolition underway at Tumbler Ridge school, site of B.C. mass shooting",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3I4MUtVa3M0MkZJMHNtT3YtQzJ3dFE4d3JsVlRCVkNoZE00dE1WUDlkZjdxM1ZGMExPdlJKdXVCVGdCX2ZndmlsdjN4MW1vV2dxNzg4d2ltRVpBTnYxeE5xV2FURURuUkY5ZVRUYzBCQnhyRktrdWRjNzNKZUphUml6cWhHMVlnNnpkdDFFWEU?oc=5",
+      "source": "CityNews Vancouver",
+      "publishedAt": "Tue, 18 Aug 2026 03:05:29 GMT"
+    },
+    {
+      "category": "AI",
+      "className": "ai",
+      "title": "Ralph: Alien Sitcom - AI's New Creative Frontier",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS25fVlNDak1EMXVwd3prSEtJa2FBSmQwN2p2VXREbTJYWngtTjB0ZWI4clVYUlJrVDdIb2JrX3FtYU0tRTFTRGJCd0VmdTlXcWhMcjZTMk1EUHFQMnJIVkVWLXdxbk5ONTdpQ2N0WWJqNnUxUnQ3X1hMS1lYV3FaQ2pmTG5oX3JPTHhfNmJZdEx1M0FKelNISlE4OHpIbUQ1bWU5YzhNUU5MZXVu?oc=5",
+      "source": "StartupHub.ai",
+      "publishedAt": "Mon, 17 Aug 2026 05:02:57 GMT"
+    },
+    {
+      "category": "ANIMATION",
+      "className": "anim",
+      "title": "The Corner of Hollywood That’s Most Susceptible to AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
+      "source": "The Atlantic",
+      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "GADGET",
+      "className": "tech",
+      "title": "New Cooling Tech Could Pave the Way for Longer Smart Glasses Recording",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUk3dzM2Q2FFY1ZRN2VQODV1Y2ZiZ0phQm52LXlEN2FzSVdPUEUzNFFSdkN5YzNmVkM0VURMYk9kUFlFOGF6RTE2OU5GSC1oS3dyaExhMi0tMjN1V2pSSThtS3JKZG5NNVVDOTJiM295YVFWS3hCRzduZk5sdllxRFlNcUtuQzhpeWdzejg1bnJUek11VzFrd2tVN2lLWXBZQkh3?oc=5",
+      "source": "Gizmodo",
+      "publishedAt": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "CANADA",
+      "className": "ca",
+      "title": "Cuts made at Global B.C., Global National, News 640 and talk radio as Corus reports losses",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3lWdW1YdG9UcGYwT0tEMFIwYVZhSnFqV1A5VTNFbzlYMFVyYVBVLWtwWnoxS09oODdYS1FYX3Z0X1EwejE3aGpFSlcwZVlfRGppeWN2eFpwVkM0X2lObDd4MFREN1dUa1BNbzllVTBfMUs2QTBwT1p0V3ZycUJvQmhYTV8wLVMtNlR4d3A2ZFQ3TXczVF9WQWRVNEljSnNTU0NidA?oc=5",
+      "source": "CBC",
+      "publishedAt": "Thu, 20 Aug 2026 15:15:28 GMT"
+    }
+  ]
+}
