@@ -6,7 +6,7 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "description": "Personal daily goals, news, work, business, photography and quick notes dashboard.",
+  "description": "Personal daily goals dashboard with an automatically refreshed five-story news brief.",
   "icons": [
     {
       "src": "icons/icon-192.png",
