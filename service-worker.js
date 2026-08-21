@@ -1,5 +1,5 @@
-const CACHE = "daily-command-center-v9";
-const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./v8-news.js", "./v9-calendar.js", "./news.json", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png"];
+const CACHE = "daily-command-center-v10";
+const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./v8-news.js", "./v9-calendar.js", "./v10-gmail.js", "./news.json", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)));
   self.skipWaiting();

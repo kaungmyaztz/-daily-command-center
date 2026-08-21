@@ -33,9 +33,9 @@ function renderNews(stories, updatedAt) {
     : 'WAITING FOR FEED';
 }
 
-document.title = 'Daily Command Center — V8';
-document.querySelector('.side-note').innerHTML = 'V8 · live news<br>Refreshes automatically.';
-document.querySelector('.footer').textContent = 'Version 8 · live news · Home Screen web app · offline-ready · ultra-dark luxe theme';
+document.title = 'Daily Command Center — V10';
+document.querySelector('.side-note').innerHTML = 'V10 · live news + Gmail<br>Refreshes automatically.';
+document.querySelector('.footer').textContent = 'Version 10 · live news · Calendar · Gmail metadata · Home Screen web app';
 
 fetch(`./news.json?v=${Date.now()}`, {cache: 'no-store'})
   .then(response => {
