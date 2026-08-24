@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T20:58:59.008Z",
+  "updatedAt": "2026-08-24T03:38:12.706Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Intense storm brings power outages, travel woes to parts of B.C.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlFtSnItTGZhQzNXWjhiTHBhMUF3cG9ZaUUtTGNoemJ2RjgzeTdSanZYOXFUQ1VFaHh0Ukw1R1dGTi1DQVFfZ0JKMVR3ZjV1d3NFMHlFN3FpOXlodHNEOEdNbUtFdmUxNVZ3bHFDWE9rLXdnYjRrSjRkWEE2MGZ2cTFFRnhNNWJXNVhhRTEtSEtWRFo4UWZkSjZ4emstQVNpekFLQndSdw?oc=5",
+      "title": "Lightning storms spark more than 65 new wildfires across B.C.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ubEkwZ3c5a0MxU0dpMXB4RE5ZejFMSFRBTXE1ak8xSTNOaGNxekdhdDY5UWxPLW9hMVdxMTBGRmgtQURwTEJlWmRMQm9UV3lERnZKWFRjb24xYmktSXRpWkFZOTZiWE9FNjlDR1Z3X3ltUlZUWkVWM2ktVQ?oc=5",
       "source": "CityNews Vancouver",
-      "publishedAt": "Sun, 23 Aug 2026 17:42:14 GMT"
+      "publishedAt": "Sun, 23 Aug 2026 20:38:27 GMT"
     },
     {
       "category": "AI",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "‘We can’t run our businesses’: Canadian companies react to U.S. tariffs",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0daRGxZeC1lVVl6RmpUYnJWQmFQb0tPS09qSVE2SzF3aDRsbUdDMVhwcHNYUElTUFdFQXlHZkpXSHBlMWpvZWZRQjdyOEljZm5YQWQ5dlNQT3Y5aHJ6dDd6MWxMVUxCRkRjbVgybHoydXdPX1JsWXFLVVBjdzJBNg?oc=5",
-      "source": "Global News",
-      "publishedAt": "Sun, 23 Aug 2026 18:57:53 GMT"
+      "title": "Soccer fans boo U.S. anthem as Canadians react to breakdown in trade negotiations",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVU9VNTlRc0tKZnlQSWZZU1ZUY2gyX08xdVJrSlZMZ2Zsa0tWd1ZWWDFKWnVVRE92TWotQlV1VkJubW4zWWRDd2d4Vy1JVGNLdC10ZHdPVGxab3Q0MVN0Y0tsZTJTWXVTSHdLWjNHd3d4Qk1MRFRicno1M0V0MDBQZHFqOA?oc=5",
+      "source": "CBC",
+      "publishedAt": "Sun, 23 Aug 2026 23:09:00 GMT"
     }
   ]
 }
