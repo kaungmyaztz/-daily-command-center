@@ -1,21 +1,13 @@
 {
-  "updatedAt": "2026-09-04T16:30:07.318Z",
+  "updatedAt": "2026-09-04T20:29:02.462Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "North Coast Transmission Line breaking ground to power economic growth",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNGNhRjdTMTE3SzhZVGNDTFoySElVbjhPV2R0TFkzNUpXei1rZ19tY0habDFDOGhsd1Fjd3VQbkRHMDVqWnpBbGUtMFNjTkJRMHVveUp5QW1VTUdQZy1xeQ?oc=5",
-      "source": "BC Gov News",
-      "publishedAt": "Thu, 03 Sep 2026 18:43:55 GMT"
-    },
-    {
-      "category": "AI",
-      "className": "ai",
-      "title": "Artificial Intelligence (AI) for Schoolwork",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUt5SzRIUDJGQjNHNlVLM0dET1dKWWNoUENLbUFYcjQwQUlMVnVobm9reVBKZEx0Z2VaREFlbHgycTdhNllSaDB5Q0JRSzAzYjdXUzRCb1VyZl9EOXJfbi1iRG51RW8wS2hjWTEtZTZ3QzVjRHdjMVhjaUtkRjNMWExKdWN5QQ?oc=5",
-      "source": "Britannica",
-      "publishedAt": "Wed, 02 Sep 2026 05:00:00 GMT"
+      "title": "5 ex-B.C. Conservative MLAs now forming new party",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjZaTkNiQUNkXzdhSlNtOWU5Y2lLa0NTOTNuSXB5bDVoTEVmRjJGd1lncHAyQlVFV2h2VVFKbnBEeWJvUEl4QURMT0tSR3d4aFQwbnM4NWlJMEk5RlJBRFBjUGZfWTh6MWNFNU9maXdVdUVJNS1MRklZbFFMZGhMQWlSZDZSeC1jb00wd2hUZDRESXNGMHVoSg?oc=5",
+      "source": "CBC",
+      "publishedAt": "Fri, 04 Sep 2026 17:13:43 GMT"
     },
     {
       "category": "ANIMATION",
@@ -30,16 +22,16 @@
       "className": "tech",
       "title": "HTC brings its smart glasses to the US as privacy backlash grows",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEIzeVlKTVpwUWsyTG9VclpuTXhwdzVZN200NV8xbXEyeEF4ekQySENrWElCLUFvZEFrOHF0Vl9sZVNpd3FzQlNGRWk0czYtWjJQLXRWZUNmN2tKRUlOak51Z1ZUYnl6Q0w5QmJORGlTZEFfcUM3bnQzeTYyUHFZcXA3Uk5PUGxWdVNPQVBabkdWek9oLW1UOGh2MWYzVi1HZkVhSlFXYjRVNllaOXRkekxWb1ZObnpx?oc=5",
-      "source": "The Star",
+      "source": "thestar.com.my",
       "publishedAt": "Fri, 04 Sep 2026 02:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Canadians should prepare for a 5 C hotter future, report warns",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmlnU193Tnhna0tKbjJIU2ZGZE1Odzc3bk84ZG9EX2kxQUFmTURqcHV6N2F2VGV4c1RaVVQwSkFRUTJ4V3MyMGZsT3BxUXBZUG5YWVlEXzVybXJybVUxUEtHdTVUWGJ4aXBNZFJpa3lKbG5zSkhtUzBKa2xhX1ZkRnZlM2I?oc=5",
-      "source": "CBC",
-      "publishedAt": "Fri, 04 Sep 2026 01:10:00 GMT"
+      "title": "Changes to Canada's climate now 'irreversible,' federal report says",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejVWY0dXZ0huNDNuV0M3WC1FRko4b05yUTBWRFpKdF93enJVQzF3SnVZNnlTMmtobE5ldkhnUWZuVHNIVEZXM2VGclpfQ3R3U3RmZ0pSM0JJUVJaZmVfeHRwRFJJLXZNdzFYWklqMUlpOTl1U1k1cS1rYkloaHdBNnV4RllUV0xhVDFmNy1ISDZTdGR4d0xWdmV5Z0dZb0VYSXNGVEFlNm51M1kySkhnWTczSXV1UldjblBJ?oc=5",
+      "source": "CTV News",
+      "publishedAt": "Fri, 04 Sep 2026 18:50:46 GMT"
     }
   ]
 }
