@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-09-04T20:29:02.462Z",
+  "updatedAt": "2026-09-05T00:38:27.548Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "5 ex-B.C. Conservative MLAs now forming new party",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjZaTkNiQUNkXzdhSlNtOWU5Y2lLa0NTOTNuSXB5bDVoTEVmRjJGd1lncHAyQlVFV2h2VVFKbnBEeWJvUEl4QURMT0tSR3d4aFQwbnM4NWlJMEk5RlJBRFBjUGZfWTh6MWNFNU9maXdVdUVJNS1MRklZbFFMZGhMQWlSZDZSeC1jb00wd2hUZDRESXNGMHVoSg?oc=5",
+      "title": "Vancouver police officer accused of defrauding 19 victims of $3M",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWhFQUlxbFFVbkJjQXdXZFRrSjZqRTNnVXdIdWxtb3JzR0pjQ0tVQ01JemVkZDZPUXRldzlzajRrWFk4b2RuZHJ0dlpKTUJwMFFWNVk3am9xZmJkeEVBRkdmLWxhREt3eWJGM2Fac1h0aUVKX2pfaHNGNFhBYXlFejRyc25BRXlZbkFRMGRUQzE3djNGWmtIZGtrQmRKZXc?oc=5",
       "source": "CBC",
-      "publishedAt": "Fri, 04 Sep 2026 17:13:43 GMT"
+      "publishedAt": "Fri, 04 Sep 2026 23:11:01 GMT"
+    },
+    {
+      "category": "AI",
+      "className": "ai",
+      "title": "Artificial Intelligence (AI) for Schoolwork",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUt5SzRIUDJGQjNHNlVLM0dET1dKWWNoUENLbUFYcjQwQUlMVnVobm9reVBKZEx0Z2VaREFlbHgycTdhNllSaDB5Q0JRSzAzYjdXUzRCb1VyZl9EOXJfbi1iRG51RW8wS2hjWTEtZTZ3QzVjRHdjMVhjaUtkRjNMWExKdWN5QQ?oc=5",
+      "source": "Britannica",
+      "publishedAt": "Wed, 02 Sep 2026 05:00:00 GMT"
     },
     {
       "category": "ANIMATION",
@@ -22,16 +30,16 @@
       "className": "tech",
       "title": "HTC brings its smart glasses to the US as privacy backlash grows",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEIzeVlKTVpwUWsyTG9VclpuTXhwdzVZN200NV8xbXEyeEF4ekQySENrWElCLUFvZEFrOHF0Vl9sZVNpd3FzQlNGRWk0czYtWjJQLXRWZUNmN2tKRUlOak51Z1ZUYnl6Q0w5QmJORGlTZEFfcUM3bnQzeTYyUHFZcXA3Uk5PUGxWdVNPQVBabkdWek9oLW1UOGh2MWYzVi1HZkVhSlFXYjRVNllaOXRkekxWb1ZObnpx?oc=5",
-      "source": "thestar.com.my",
+      "source": "The Star",
       "publishedAt": "Fri, 04 Sep 2026 02:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Changes to Canada's climate now 'irreversible,' federal report says",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejVWY0dXZ0huNDNuV0M3WC1FRko4b05yUTBWRFpKdF93enJVQzF3SnVZNnlTMmtobE5ldkhnUWZuVHNIVEZXM2VGclpfQ3R3U3RmZ0pSM0JJUVJaZmVfeHRwRFJJLXZNdzFYWklqMUlpOTl1U1k1cS1rYkloaHdBNnV4RllUV0xhVDFmNy1ISDZTdGR4d0xWdmV5Z0dZb0VYSXNGVEFlNm51M1kySkhnWTczSXV1UldjblBJ?oc=5",
-      "source": "CTV News",
-      "publishedAt": "Fri, 04 Sep 2026 18:50:46 GMT"
+      "title": "Federal Tories launch 'Conservatives for Canada' campaign ahead of Alberta referendum",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTR2Y3AyZE54RUxRaW9zbllYYjVDRGlQZXBQdUl3QmlGLXA3S2lkekRCTTFpSE9VSTRWWERtejcyeVZoSUhRN3RMVFhYM1lhMERTY3ZrVkk3TVVqeUlyaXdmMWZWMVM4cXhWWk1EanlYaElLeGowVFBqcW40SkpwYkVMeTRYbFUzWHRwdU15bXVNRkpCVGk3T3pUQjdrZmpzaTBV?oc=5",
+      "source": "CBC",
+      "publishedAt": "Fri, 04 Sep 2026 22:10:15 GMT"
     }
   ]
 }
