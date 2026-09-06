@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T16:29:38.869Z",
+  "updatedAt": "2026-09-06T20:29:13.931Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -22,7 +22,7 @@
       "className": "anim",
       "title": "The Corner of Hollywood That’s Most Susceptible to AI",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "theatlantic.com",
+      "source": "The Atlantic",
       "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "New Delhi building collapse leaves 1 dead, others trapped",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZNXVaMVlMYW55dWtjdXdaQm52NmN6MTY4WEQzSlVlRTJDbU45REZ2QmF6czlUcFFMQTR6aEpWWjhpcXREanBqWlBRODdkUE1tck1OcVhIcWRGeTNYeUpFS0NUZXJMSXd1cmRpUVd2QkU5QQ?oc=5",
-      "source": "Global News",
-      "publishedAt": "Sun, 06 Sep 2026 13:24:38 GMT"
+      "title": "Counter-tariffs won't just affect the cost of goods for Canadians. They'll hit the trailers moving them too",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONEdfTW51VHlFdHhpUW5XLXpmYU9vQjRrTndMWXpmS216cHJNNGtEanN2em5IUGN0UUFSMTczdnVpZ3Y5eFdvZ0FMX2lvZGlrWU9UVUt0eDg5M3BVOTVjM0FlQVVXZTVqTVZvaHJIcmFjU3M0YU9HNDdEd3lRRUQzRWJNXzZLZS1OaUI4aUxGWkVXQQ?oc=5",
+      "source": "CBC",
+      "publishedAt": "Sun, 06 Sep 2026 11:00:12 GMT"
     }
   ]
 }
