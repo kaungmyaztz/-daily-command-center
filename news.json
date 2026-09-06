@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:30:20.841Z",
+  "updatedAt": "2026-09-06T08:30:46.224Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -14,7 +14,7 @@
       "className": "ai",
       "title": "Artificial Intelligence (AI) for Schoolwork",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUt5SzRIUDJGQjNHNlVLM0dET1dKWWNoUENLbUFYcjQwQUlMVnVobm9reVBKZEx0Z2VaREFlbHgycTdhNllSaDB5Q0JRSzAzYjdXUzRCb1VyZl9EOXJfbi1iRG51RW8wS2hjWTEtZTZ3QzVjRHdjMVhjaUtkRjNMWExKdWN5QQ?oc=5",
-      "source": "britannica.com",
+      "source": "Britannica",
       "publishedAt": "Wed, 02 Sep 2026 05:00:00 GMT"
     },
     {
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Global National: Sept. 5",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aSl82eDk4R1dXUS1sWlFMeFROZm51TlRPSTFzV3RQZ2NHbjIzS0dFdDc5bU01SkdlbHpjRVF6NzZDanpCcnhVNmRHcnFRTk9xSDk1U3dkeXVzeEl6RlFzSzBJbENnYW5NNm5CNTFBbw?oc=5",
-      "source": "Global News",
-      "publishedAt": "Sun, 06 Sep 2026 00:38:14 GMT"
+      "title": "Alberta independence group releases its ‘transition plan’ to become a country",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGp6eEZpZmJDSE5HQUpNc1k5V3FDTEFzYlQyck41eEVqaTVvYTB6WHhzZFUyVU00eXNwNk56QUVoRU5WRlR1S19vR054MXpsRGhRZEFObVQxTmxSUzFLRHZrVDNDTGE1eC1qbmVFTGFSRkNfM1drZFF0OGJscTdMUjZfR2luaEJnaFZrWXdIVUpEMHBEb013VV9KY2FNT0RNTFE?oc=5",
+      "source": "CBC",
+      "publishedAt": "Sat, 05 Sep 2026 12:00:00 GMT"
     }
   ]
 }
