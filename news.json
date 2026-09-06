@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-06T12:33:50.751Z",
+  "updatedAt": "2026-09-06T16:29:38.869Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
       "title": "North Coast Transmission Line breaking ground to power economic growth",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNGNhRjdTMTE3SzhZVGNDTFoySElVbjhPV2R0TFkzNUpXei1rZ19tY0habDFDOGhsd1Fjd3VQbkRHMDVqWnpBbGUtMFNjTkJRMHVveUp5QW1VTUdQZy1xeQ?oc=5",
-      "source": "news.gov.bc.ca",
+      "source": "BC Gov News",
       "publishedAt": "Sun, 06 Sep 2026 08:46:43 GMT"
     },
     {
@@ -22,7 +22,7 @@
       "className": "anim",
       "title": "The Corner of Hollywood That’s Most Susceptible to AI",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "The Atlantic",
+      "source": "theatlantic.com",
       "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Alberta independence group releases its ‘transition plan’ to become a country",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGp6eEZpZmJDSE5HQUpNc1k5V3FDTEFzYlQyck41eEVqaTVvYTB6WHhzZFUyVU00eXNwNk56QUVoRU5WRlR1S19vR054MXpsRGhRZEFObVQxTmxSUzFLRHZrVDNDTGE1eC1qbmVFTGFSRkNfM1drZFF0OGJscTdMUjZfR2luaEJnaFZrWXdIVUpEMHBEb013VV9KY2FNT0RNTFE?oc=5",
-      "source": "CBC",
-      "publishedAt": "Sat, 05 Sep 2026 12:00:00 GMT"
+      "title": "New Delhi building collapse leaves 1 dead, others trapped",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZNXVaMVlMYW55dWtjdXdaQm52NmN6MTY4WEQzSlVlRTJDbU45REZ2QmF6czlUcFFMQTR6aEpWWjhpcXREanBqWlBRODdkUE1tck1OcVhIcWRGeTNYeUpFS0NUZXJMSXd1cmRpUVd2QkU5QQ?oc=5",
+      "source": "Global News",
+      "publishedAt": "Sun, 06 Sep 2026 13:24:38 GMT"
     }
   ]
 }
