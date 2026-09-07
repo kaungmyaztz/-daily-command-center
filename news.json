@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-07T16:31:01.023Z",
+  "updatedAt": "2026-09-07T20:30:28.347Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
       "title": "North Coast Transmission Line breaking ground to power economic growth",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNGNhRjdTMTE3SzhZVGNDTFoySElVbjhPV2R0TFkzNUpXei1rZ19tY0habDFDOGhsd1Fjd3VQbkRHMDVqWnpBbGUtMFNjTkJRMHVveUp5QW1VTUdQZy1xeQ?oc=5",
-      "source": "BC Gov News",
+      "source": "news.gov.bc.ca",
       "publishedAt": "Sun, 06 Sep 2026 08:46:43 GMT"
     },
     {
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Trump’s trade war with Canada becoming U.S. midterms ballot box issue",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHpqNlowbUxsckF3dGdHY2dHQ0oxT2JvMWh3THgzMDVMX3RRazhMWnRfOFpFbi1ueklVZVNBakNjd2dwZGtYSU5VT2p6TmkxT0ZPUzNLSGdSRnVKeHRxbElPNV92T2ZpOVViYWJ5QW5KZ1IxV29HZzFYZU1KcWhBdw?oc=5",
-      "source": "Global News",
-      "publishedAt": "Mon, 07 Sep 2026 14:28:02 GMT"
+      "title": "Stephen Fuhr was mocked for opposing the purchase of F-35s. Now he's in charge of Canada's defence procurement",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnl0ajI5LUtLM3NiRUlxX2I3eEI2UFdIcGhJa1lEc0pFSG02aV9pVTVmWUo5ZVJDb2tTSHhjTkpTSS0xY3FJWmwtZmRMMzllSlppakxwYlBMeFNoSExiczRxS0ZoT1pCbmFKdWdHOVI2WDFxckMzQXplZVBLa3U2V20wOW5xR3Z0VE84N19zZmlVVXo0dmc?oc=5",
+      "source": "CBC",
+      "publishedAt": "Mon, 07 Sep 2026 08:00:00 GMT"
     }
   ]
 }
