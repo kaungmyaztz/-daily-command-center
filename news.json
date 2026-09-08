@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-08T00:41:20.261Z",
+  "updatedAt": "2026-09-08T04:31:17.931Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
       "title": "North Coast Transmission Line breaking ground to power economic growth",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNGNhRjdTMTE3SzhZVGNDTFoySElVbjhPV2R0TFkzNUpXei1rZ19tY0habDFDOGhsd1Fjd3VQbkRHMDVqWnpBbGUtMFNjTkJRMHVveUp5QW1VTUdQZy1xeQ?oc=5",
-      "source": "BC Gov News",
+      "source": "news.gov.bc.ca",
       "publishedAt": "Thu, 03 Sep 2026 18:43:55 GMT"
     },
     {
@@ -20,10 +20,10 @@
     {
       "category": "ANIMATION",
       "className": "anim",
-      "title": "The Corner of Hollywood That’s Most Susceptible to AI",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "The Atlantic",
-      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
+      "title": "Vancouver’s Film and TV Industry is Facing One of its ‘Toughest Slowdowns’. Animators and Visual Effects Workers Are Unionizing to Take Back Control.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON0pBT0k0b0hoNE9HYnl6TkVTRE4wZkxHVDJhVVRPRHF1OC02bk5uTGFPdHNaOFNMQWNsXzNCVGhLMGtkV2Q3LWxBRERHOWVrZnh4SWxOVlZlNTBGX2ptbUJhSWgwaHQ4TUNTSjh2YlBOZWNEYUFNZ1BBTHJELWFsOEJRNXZQeFdLSm52aFNOWklGM0c5Mm5tS2Vqc3pFSE9mLXE5VnNyLUlyUmduVGtNSG4zbXJGNDlFbnB4VzM1U0pTY1hzQ2E3VndSRGJseTNjRFpxckhRaWJ2WVhZbjBBanVFcFhUMGhmYnhEekxJdThwa0g5LUdJdEdQR2hFNnc?oc=5",
+      "source": "PressProgress",
+      "publishedAt": "Sun, 05 Oct 2025 07:00:00 GMT"
     },
     {
       "category": "GADGET",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Trump threatens Bombardier, Canadian dollar as counter-tariffs set to roll out - National",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeVBVcE1nRVNBRVVQMm43UHZrTERRYnZ6Q0pNRGFpODNVZHRENVhGUkZqOXIyOV9XS1gxZi15bXBWX0JLNTZudTZlSkY1NlBLMDNaazV5QXZwQWVRN3VOMEFhNVBIbTFBQWxHRWNjcTVEREpodk5RRHlCakJpSGdDRjR5Z0NiZw?oc=5",
-      "source": "Global News",
-      "publishedAt": "Mon, 07 Sep 2026 20:30:18 GMT"
+      "title": "Canada's new tariffs: Businesses are bracing for higher costs — but shoppers may barely notice | CBC News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lNnRvRm4yTDVRc3JBakMxcWZJeHY3WkZ1VV9PUEM0cEprNlUzbE1EbEVNcE5rQWhGNVNKSXlKWl9CanlaWkIxbUdGVUREYVJCLXVDU1R5WFliZjRKamExcHg2YzdoT2twZ0RDZWFn?oc=5",
+      "source": "CBC",
+      "publishedAt": "Tue, 08 Sep 2026 04:01:00 GMT"
     }
   ]
 }
