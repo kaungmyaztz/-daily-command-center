@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-09T16:32:43.808Z",
+  "updatedAt": "2026-09-09T20:31:04.337Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
       "title": "North Coast Transmission Line breaking ground to power economic growth",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNGNhRjdTMTE3SzhZVGNDTFoySElVbjhPV2R0TFkzNUpXei1rZ19tY0habDFDOGhsd1Fjd3VQbkRHMDVqWnpBbGUtMFNjTkJRMHVveUp5QW1VTUdQZy1xeQ?oc=5",
-      "source": "BC Gov News",
+      "source": "news.gov.bc.ca",
       "publishedAt": "Wed, 09 Sep 2026 11:58:46 GMT"
     },
     {
@@ -22,7 +22,7 @@
       "className": "anim",
       "title": "The Corner of Hollywood That’s Most Susceptible to AI",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "theatlantic.com",
+      "source": "The Atlantic",
       "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Jamieson Greer blames Canada for U.S. hitting back over counter-tariffs",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1p5MFphNjFqNnBNWkNjUUwwTFpsVDd5TDl3Q2xhbUdqdEw4WWc3d1lhdExUWXRvcktlMjRTUGlONExUdzFsSVFFbFhFdzFMYjZ5dHBNaFpLODRaejl1RlQ0T3RVY3YxSDJiZDA4VmpMNEl0Z0w3TnExMmxrUEJjaDVR?oc=5",
-      "source": "Global News",
-      "publishedAt": "Wed, 09 Sep 2026 15:35:19 GMT"
+      "title": "'Unhinged' for Canada to call dispute with U.S. a trade war, says Trump's tariff chief",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUZhdUVTWEp1Z09BakFPcjZlRDdaRU1nUGlHbFAzbHd3SFZ0TlYza3RySjdCdWtlRHBLczUyblZpaHJBc3JCQ2JxQXRMaEt1Wkd3ZmFEQlJjc0g0cXJrZHJrMWxOckpKLTVzNUZsR2o5Qkp4ZjJybkx4cU96ZG1OZHNQNlp2TVltVlZXNjFORWlBUEdHd3Rjc1dsSi0?oc=5",
+      "source": "CBC",
+      "publishedAt": "Wed, 09 Sep 2026 16:49:38 GMT"
     }
   ]
 }
