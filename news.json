@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-14T12:38:09.859Z",
+  "updatedAt": "2026-09-14T16:31:30.696Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "IIO probing fatal crash after suspect flees from Vancouver police in 3-wheeler",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWRUd1pibU9TQ3k2YmVyVlo2Wkl2THh6UldQZ3UyYmRaeUtJZkJNZ1dkd2J3RjVia1dkR3ZEVjVoR2JIQU5FMVowSGttUlNQQjJqNkFEMmRWY0w5dU1DaU9OSkpDb3NPMzNsbjZiSTZVT0ZVbDhpbF9PVmhLVm5ZXzB4aDBUaE9YcDZ6QnR1T0pZQm8?oc=5",
-      "source": "CBC",
-      "publishedAt": "Sat, 12 Sep 2026 19:18:47 GMT"
+      "title": "North Coast Transmission Line breaking ground to power economic growth",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNGNhRjdTMTE3SzhZVGNDTFoySElVbjhPV2R0TFkzNUpXei1rZ19tY0habDFDOGhsd1Fjd3VQbkRHMDVqWnpBbGUtMFNjTkJRMHVveUp5QW1VTUdQZy1xeQ?oc=5",
+      "source": "BC Gov News",
+      "publishedAt": "Thu, 03 Sep 2026 18:43:55 GMT"
     },
     {
       "category": "AI",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "As investors arrive for Carney's summit, what's on the table and what will it take for them to buy in?",
+      "title": "Carney is seeking $1 trillion in investments. What will it take to land major deals at this week's summit?",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3ZxOVBsYTVQM2oyNlk0Y1VFMklKSU52Q183WDBGeU9oSlV5WVlFS1FEZmx5Unhfc0ZtT0gtRlBEaEVoc1hOSzFycEdFeF84YnFoRS1ReDlVb3ZuM3BGQUZGN3U4bE00VzgyRlN4Vm5rWlBDUk5uUmVhSVI0UTY3R1YwSQ?oc=5",
-      "source": "CBC",
-      "publishedAt": "Mon, 14 Sep 2026 08:59:31 GMT"
+      "source": "cbc.ca",
+      "publishedAt": "Mon, 14 Sep 2026 12:56:37 GMT"
     }
   ]
 }
