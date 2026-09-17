@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-17T08:32:19.361Z",
+  "updatedAt": "2026-09-17T12:36:37.834Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Philip Cross: Surprise! British Columbia is now a major energy player",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Uc29ISERfa3YyaV92d3k2OVhYNHhrMTNXZkY4dWdHWjE1SWh6bHVVNk43YnROY0g5d1pOb2xvcWZkX3p5dFJ3NEhuRTV6dDJPdUU0ZlZSaTNRNGg5UC10UDZZU0RSNG5ZWGhfd1oySnhnQWh3WEZBV0t3?oc=5",
-      "source": "Financial Post",
-      "publishedAt": "Mon, 14 Sep 2026 12:35:32 GMT"
+      "title": "Fixing B.C. tech tangle ‘a top priority’ for new health minister",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0w3MEZFV2pRRmRpNXJFTTQ5ZWplcVByUy0yd1k2NGFUV2p5MU1tSDU5SlZkc2dVX0hHR0ZvemdfY2ZGZ1hqTFJPMXkwXzN3aU1oVE5JUnFEck5zeTVLRUxrWWpoeHhXOEhhc3VUV2pjY18zRE12V1A4Z0xUTDZBQ3NzTFk1VnJjSXZlRE5Va19xSUpSbmdZS2dqOGd0dEpxVml5YQ?oc=5",
+      "source": "CTV News",
+      "publishedAt": "Thu, 17 Sep 2026 01:52:00 GMT"
     },
     {
       "category": "AI",
@@ -28,18 +28,18 @@
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "20 Tech Gadgets and Upgrades Worth Bringing Home (And Around With You)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmswbnVOY1ZudlhFNDBSZFppWHlNQVJxTlRiWkdQTmFIZXdiV2RJX0c2MjI0TU9DMUQxZjQ3VW5uMkJjMWZseEY1TEJWeW9naVpQYk5acHliSTZCMDFsLVFMTmpMN19MM2pCX2t3eDNoS0Q5R1psdnVJRWJoMExvc0JWamdsSWU5dTJUbG1TRlAtMDNqZlNSTEJn?oc=5",
-      "source": "Gadget Review",
-      "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT"
+      "title": "Snap SPECS AR Glasses $2,195: 3-4 Hour Battery Could Limit Consumer Appeal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsdjhfZmpXVGdxU2JNME15a2NoYXh1WDBGb25NTVZINlhtNUVqSno5OFpGa0NhdXVFeVJ5Y2kteVZtc2llaUpqZ0FESzl3UDdDb09rSmo0Um9nVkc1RXFUXy1SbFJfX1BnOXJHbHQ5TlhvZmt2dnc?oc=5",
+      "source": "Geeky Gadgets",
+      "publishedAt": "Thu, 17 Sep 2026 10:02:18 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Trump signs memorandum to identify and remove Canadian products from U.S. federal procurement",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWVxbEVSN1pHNnRWN2p5b1RFc0gxNzVoVHVvUmE3YWNPSVV6QmUwQ2pNQ3VlWmxFSFU3dTNHOHAwaTJEZXRSWW5takh6YV9VWko2TXJwU2dHRVNnYkVvUUlEb2ZZVWt2VGE2RXlXRTlPZ09rMXVIb0IxcEo5ZVVWWEY1Y3RuX0k?oc=5",
-      "source": "CBC",
-      "publishedAt": "Wed, 16 Sep 2026 21:49:45 GMT"
+      "title": "911 outage hits multiple Canadian police forces, service restored for some",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aaFgtb1lVVW1EWjk3V3IxYVIyTEw0SFRTUlVzMUxockZfdmxNaHJyMVo2VDFfU0xPZThmTUFxejhoWE1nWi1rRHZxZ1ZvX2k1MklmN2lMakFndWkzT0Jjb1p1ak8?oc=5",
+      "source": "Global News",
+      "publishedAt": "Thu, 17 Sep 2026 10:43:14 GMT"
     }
   ]
 }
