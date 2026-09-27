@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-27T14:02:56.278Z",
+  "updatedAt": "2026-09-27T19:47:16.908Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "British Columbia invites entrepreneurs to pursue provincial nomination",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm9oeDQyU3I3N090Nm5aNE5kazBva0dTNUkyT0lhR2o2YTViRmVmMncxZjhwRDRwcG44bEhVcmRtSV9jMU5JWjhBLV9fMVM4Zy1kNmdCY2hqczBxRGJOaGdkeGpUbWxaRHFoRkdRYmpzZUxIVkFJOXZoQXVkM2JLYWx2ME5VRVdZdEhDU2NId0xxSTE1NVFSdERaNlpNaW42YmdkV05nLWJuSV9ZdFdZZGhxRndYd9IBmwJBVV95cUxOV3FucEFBSk5VbmY2dkIteUNWN3Jua0RvTXJBRl96SjNyRjFyRnFHSzJvbWFBOERfS0NsR0VhZF9wUThOSG1YM1J6aU82TWprWXE5TjktaVdJYm9uRC1XN3lsaHNBZzEySHBTMTZjRkUzN1lsZmo5YmVkbHgtcnR6ejBEWUVYR01DczNyVm5rbWlJeTZFUzU0TFBSUHd0cWpsU0xoRE9tYjh3dWk2aUlLTk1WcXZlSGtZM21oeXZRQTZjZFFjTnBtN3hJQWswMnlDY2tKVlp1R01ab0Z3Sk5yTDY5NVJWdHY0cnhjczBVTTRGM2dSOTJJM05nVjRfY3FWeG9ZeFF1eDJmLUR3dUZxTXJ0Q0hEVHkwSEg0?oc=5",
-      "source": "CIC News",
-      "publishedAt": "Wed, 23 Sep 2026 16:02:46 GMT"
+      "title": "1.2M British Columbians have no family doctor — even as B.C. NDP touts successes",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzg5M3pUTGptQ2hVMXgtT1JRbm9NdDE0SEd1N1Z2My1HTTdxUFhkTE5oT1lObS10QVl1c2wwQ3A5Vlp5Uk82ekdTel9oYTdXNHRRZUxiaXJtSmE4M0Z4N1RFQ0dvdHlmVTlob2JlV3ppZUh4YWZ1NnNCRjcxci1HSEtwcGVvQQ?oc=5",
+      "source": "CBC",
+      "publishedAt": "Fri, 25 Sep 2026 22:06:09 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "AI Should Help Researchers Be Even More Creative, Not Think Less",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGV1cUNGckx2NWFuUUFXcVctTTB1X2Z0N2ZIbFJtTFA1V1VYaFdmZ2k1NkdZVF9vb1dqdlY3eDk1SGN4aDZUZm5JT0lGT19yX09UYXZMNUYyZTFrQjV5VVNDVW5BTng4VnpCdkMtakFCUTFWUVNKN21JekQ2OVB3YXVsRl9lOHlDcWZiS0RxWm91NU1fS1NHZG1vOUJENmRU?oc=5",
-      "source": "the-scientist.com",
-      "publishedAt": "Sun, 06 Sep 2026 07:00:00 GMT"
+      "title": "Creative talent: has AI knocked humans out?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzZsSFpXcmNsMEI3TEhPaGRPS0RsOWV5ZUZaTVJFYzlyRnpOa2h6TnRrZ0gtUV9JRTI1XzJ6dTBBME54YnZqMU04bW1DOGNCeU9HZURWckQ2VXV4UV9vamlLVzNSUTZELXlFMjJZX1Q1M1N1ckJ5bHB3M29tMlcyRnIwRkFXYlBpdWpCOEtxSExRLVl0emg1bDZn?oc=5",
+      "source": "Université de Montréal",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT"
     },
     {
       "category": "ANIMATION",
       "className": "anim",
       "title": "The Corner of Hollywood That’s Most Susceptible to AI",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "The Atlantic",
+      "source": "theatlantic.com",
       "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "What's open and closed in Ottawa for the National Day for Truth and Reconciliation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTZnZ0tkdThHYV9oSmRZUFdFR28tU3BnQXFsdjJiMExON3pnVll4d011aTdTWXA5VTVHN2NyNTM2NTlHQVJ5NGdaa1p2VlVjeUktNENTZ0xxRUhvNVJDWnVaLXlLWmhpWVBmQlItN2tpMlpnc1EzVEhoTkdPc2xQbFU4ZjZqbUlxeG55ODNLZmFpd0l3MnpxMWJlTmNOMWc1SEllOWI4dzNtYzQx?oc=5",
-      "source": "CBC",
-      "publishedAt": "Sun, 27 Sep 2026 08:00:00 GMT"
+      "title": "Threats to Canada’s North have ‘shifted significantly,’ foreign minister says",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkdhdUJTMUpuZ25RYVU5NWthS3dnTENzM0JnWVpvV3A5Q3hvaHFpcGxveGszVE1raVFFVkV0V2VOS0RXU0VGSmYtdGtQdzFzamJtSXROMWlWMlNfQ0RQUEQ4ZGpHVnR5M0pYVldEYUNxMG1CcEdQOE8zRy1DekhBN1RGSDhXMmFWaXJueE1kQkVaNlk5SlFZYXFoYjB6dEdhV1FDNDNQc3BPOUM2YnBz?oc=5",
+      "source": "Global News",
+      "publishedAt": "Sun, 27 Sep 2026 15:00:02 GMT"
     }
   ]
 }
