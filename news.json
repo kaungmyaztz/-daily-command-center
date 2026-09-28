@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-09-27T23:06:56.368Z",
+  "updatedAt": "2026-09-28T05:32:00.362Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Record-breaking owl migration in northern B.C. leaves bird banders scrambling",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQXzlwNjdiOHg1R0wwbGphNDR1LTRGbG1kS3BFZ2NNdUptaVBQSWRLRl9BNzZGV1FnNngzUWlOTXVzdlNLU0dDeXN4Y2RTNVFsSHVMS0pJM2Y4WVVYN3d6U2VPZ0hldlp0NzNTZnB2a1ROaXliVEhHcGF1U2ljU0dBa2lBQ0RCMTB6VHp4cElPNVBrTVRU?oc=5",
+      "title": "1.2M British Columbians have no family doctor — even as B.C. NDP touts successes",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzg5M3pUTGptQ2hVMXgtT1JRbm9NdDE0SEd1N1Z2My1HTTdxUFhkTE5oT1lObS10QVl1c2wwQ3A5Vlp5Uk82ekdTel9oYTdXNHRRZUxiaXJtSmE4M0Z4N1RFQ0dvdHlmVTlob2JlV3ppZUh4YWZ1NnNCRjcxci1HSEtwcGVvQQ?oc=5",
       "source": "CBC",
-      "publishedAt": "Sun, 27 Sep 2026 14:00:00 GMT"
+      "publishedAt": "Fri, 25 Sep 2026 22:06:09 GMT"
+    },
+    {
+      "category": "AI",
+      "className": "ai",
+      "title": "Creative talent: has AI knocked humans out?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzZsSFpXcmNsMEI3TEhPaGRPS0RsOWV5ZUZaTVJFYzlyRnpOa2h6TnRrZ0gtUV9JRTI1XzJ6dTBBME54YnZqMU04bW1DOGNCeU9HZURWckQ2VXV4UV9vamlLVzNSUTZELXlFMjJZX1Q1M1N1ckJ5bHB3M29tMlcyRnIwRkFXYlBpdWpCOEtxSExRLVl0emg1bDZn?oc=5",
+      "source": "Université de Montréal",
+      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT"
     },
     {
       "category": "ANIMATION",
@@ -22,7 +30,7 @@
       "className": "tech",
       "title": "Smart glasses, AI gadgets: Privacy challenges Big Tech's next bet | Daily Sabah",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUdsQ2ZsTFh3V0RJTWxIN1dOOG0wdVFfMU9NT1B2ZUV4LVRlVVJNWXF4aGx0dnh0TXEtNmpYLVFXbUxDVG5IVmlXbVplRUg1Z3YwSVdpdUtxeldjd1dONURRNENUajJNZXlVT1dxYzU0bUItNzg0aF9oajZ0U1lkSmNQa05kNEtaNkVDQlFtaEhmLWdJTjdWcXZnU0dYMW5SSV9MMDRn0gGrAUFVX3lxTE5xTGROWXpoY3J2bHJOM0taREpyU18xMDVFa2x3STJzVnRCT2M1RzMtVnY5ellWLVYwQ2NoaXJ6VWM0R0dGSFhqWHdRVUNnQ1l4UTliTWh3UWpBUHVjcWhIZ0xGSWxzeVhDMDdyc1RmeXlsVWlvZldiZ2l0X3F4aXI2cVJyNzY2ZFg4ZlpYTG9zMjRqNjFEZHFPdlJuQTlZUWM3TFhhQThYZVBmSQ?oc=5",
-      "source": "dailysabah.com",
+      "source": "Daily Sabah",
       "publishedAt": "Sun, 27 Sep 2026 11:29:00 GMT"
     },
     {
