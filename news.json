@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-28T16:47:54.726Z",
+  "updatedAt": "2026-09-29T00:23:59.387Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "B.C. Conservatives promise no new taxes if elected on October 24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYmxmbVJVczFJcUtHQ3RyY2ZpNmNmMzVsVlVxSE55SmVqczF5dzlWUGtxU1VQelo5VUJ5RGZVVlFrMzFIS1FiQzhoRnNMdkE5TnNHZGdESkpSQmJoQk9tU3k4cVNkeWs1TDRscGp3b2dmMENObThPN2RYdUlqMFlGYUoyanRRT0tjczlnNHd0S2NvaExCNTdTQWs4ckFpcElMdjY3RW5DTXg?oc=5",
-      "source": "CityNews Vancouver",
-      "publishedAt": "Sun, 27 Sep 2026 20:02:12 GMT"
+      "title": "Heavy rain, strong winds forecast for coastal B.C., including Metro Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUNrRVcxVjRzYnowb2lvX2ZVX2t1ZWNkXy05M0NuaFFJa2daQkFsOUNCWnVfM3hPQmJPQ09jR28tdEtQc25vdVJIa01HM1BmT2NaVE45ZzVDdDMwYmc1Z2pMakNka3RrWmpzOGtQYlcwWU5oZnc0RkpRRVZ1TVVROW53d0xFSGVpRVFfWlhMc3FoZWFLMnNHWkk2alBDdENu?oc=5",
+      "source": "CBC",
+      "publishedAt": "Mon, 28 Sep 2026 23:12:22 GMT"
     },
     {
       "category": "AI",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Getting my Canadian permanent residency should have felt like a win. But I've lost a lot along the way",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wNHJqaDF6UWRlYnVGUnhSWmswTVlOdFMzcGMzaHFFVGZpTGItSUU1aHlvb2RwLTNWMEJXeVhhRVJ2M2lXcXAteVlIanloT1lwbjgwX25POVYtZjRJVTFvUGgyakJ3cXhJWUxKWlNibDRoZw?oc=5",
+      "title": "Critics accuse Carney government of proposing 'sacrifice zones' for the environment",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlg4a1pHcU9pd2pySlFRMzhmNC1xQU5IdlVzMWhXR2xYSWhBZVpaSF9Tek1kcUttUl9VMHl0cHdzS19RWS1LNHQxVHhUbndzM3E1eXdHcUM2TFNsX05ZR1BENTBXR0VhODR1cUstMkpzdXRLRVdrSUxDY1dDNk9MWjc1dUpLZ1FxN3ZUY2FuOEdzQmdOZVl5SW1CV3dEaHJu?oc=5",
       "source": "CBC",
-      "publishedAt": "Sun, 27 Sep 2026 17:10:20 GMT"
+      "publishedAt": "Mon, 28 Sep 2026 17:03:03 GMT"
     }
   ]
 }
