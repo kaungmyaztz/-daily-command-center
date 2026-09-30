@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-30T14:58:10.091Z",
+  "updatedAt": "2026-09-30T20:50:48.865Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Heavy rain, strong winds forecast for coastal B.C., including Metro Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUNrRVcxVjRzYnowb2lvX2ZVX2t1ZWNkXy05M0NuaFFJa2daQkFsOUNCWnVfM3hPQmJPQ09jR28tdEtQc25vdVJIa01HM1BmT2NaVE45ZzVDdDMwYmc1Z2pMakNka3RrWmpzOGtQYlcwWU5oZnc0RkpRRVZ1TVVROW53d0xFSGVpRVFfWlhMc3FoZWFLMnNHWkk2alBDdENu?oc=5",
-      "source": "cbc.ca",
-      "publishedAt": "Mon, 28 Sep 2026 23:12:22 GMT"
+      "title": "Frontal system causes heavy rain of up to 100 millimetres along part of B.C. coast",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0lIS2VoRDJlZVhfLUlySEFsRWVlYlhvaFZGTnNqdWNHNFpnWmhDMENnbktGVG9PeVlxeWtuR1c1Ymd3OTFMeDZFRzNvSTJIREtPUDktSVAxNE9BVnozcGV4bThTMHNjZjJlbVkzM203NWVxXzdERFpnR0wxbTEtVjkxdE45LVN1Y3NJY29uOTBibmN1N1RRSXpGQ1E0SnJuWW0zU09ZQXVNZjVzTXBJOVpMQnRCLUJhZjJ2b3B0WQ?oc=5",
+      "source": "CTV News",
+      "publishedAt": "Wed, 30 Sep 2026 17:12:36 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "Cochrane announces selected AI tools for innovative platform study",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWd1Uy1WQlFieGQ3c0t2ZVNXcmJ0V25BR1JfcmowWVplTTN0VWQ1eXZqcjhLNnloeWpianFkZS0yRm1hYXRvVmNUSFpKTUUxYU1UMWJrZUFBaXlrcFNXU0ZfVm1weUpTdDZVaVRxclYwakxZcHlUcHhDd0dJQ3FhQllVb29sVWw1dm0tMzVDOWV1U2dBMlB4VFBqRzhNUjRUeWY4?oc=5",
-      "source": "Cochrane.org",
-      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT"
+      "title": "Creative Industries Have Been Eviscerated by AI, Data Shows",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2xUWGthdU5tbFM0el9JUGZIM2ppeFA2SEM1NGFzRVZPQzZDSzJUSWIxbEI0NHlkaEZkRmpLREtpTm5SOWJWTTRnbnpoQ3I4bHllcElMa0dqMjRJN2gwa3VsbGJpQ1VtV0xrSXRJdThRa3l0NnNEZHJEQnFzREY2TE1abUtGSnlRTXYwUndkc3pwVktVOW1OOHpMak5LUnBLclRB?oc=5",
+      "source": "Futurism",
+      "publishedAt": "Tue, 29 Sep 2026 11:52:52 GMT"
     },
     {
       "category": "ANIMATION",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "National Day for Truth and Reconciliation: Building Canada’s future involves everyone",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ00yYjdxSkhUZGJkOXBtUlhONG1tZW5MX3hjREo4SkR5NjlKdVp5bm5FNEhXLUxyUHlxUW1kY0Nia0lzQTB0YW45aTRUbjBrZzdrYkFuTmozSGJmVFRlVUNWbmYwREZZck5WYk4xcHZ2bGlFU193UlZ4dTZfQnVyUXNhOU9KcmJFZXFCUDVIMnNTZ3lQMXJnS3pISk55dHdnc0I5UU9hOTJzcWtyZVRVNFNnd3pELXBGWkZVUjVpVnhRQ3ZkWmpuMS1ISWtUWVZIVU8yc3FZdkVqYkQ2WFpITA?oc=5",
-      "source": "constructconnect.com",
-      "publishedAt": "Wed, 30 Sep 2026 10:36:29 GMT"
+      "title": "Carney marks 6th National Day for Truth and Reconciliation saying journey 'is far far from finished'",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbk44VXhfMWNqTkt2WGJhbnVZTUFpdzNac0x2MnJLYm95d1N3VUl4Yk50NThIb3A2QTRQOHpsdGo4RU1SRFowZ1o1R2lEYV81ODh1bHlQQWVaVkw5V0U4VUt0WlZ3djM1TW9WcHlYVEwxUV9TVVZLNG45dUZkZlVnSVVYZmdIdlVxbFNj?oc=5",
+      "source": "CBC",
+      "publishedAt": "Wed, 30 Sep 2026 19:22:25 GMT"
     }
   ]
 }
