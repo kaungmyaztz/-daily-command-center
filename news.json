@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T05:24:57.750Z",
+  "updatedAt": "2026-10-03T13:28:23.737Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -7,14 +7,14 @@
       "title": "Andrew Nichols and Aileen Machell discuss the West Coast oil pipeline and its impact on British Columbia.",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zNUtmMXV0WHAtcU1sV2labWpxRC1KYXh6aDlXMUhiUHBKZWl3Y1VPb1l1NzZfVlFmZnFCeEFZME9nV3BaS1BWOG5PbUJXSDBXdE4tb0cyT19qZw?oc=5",
       "source": "CBC",
-      "publishedAt": "Fri, 02 Oct 2026 21:55:29 GMT"
+      "publishedAt": "Sat, 03 Oct 2026 06:25:30 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
       "title": "Creative talent: has AI knocked humans out?",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzZsSFpXcmNsMEI3TEhPaGRPS0RsOWV5ZUZaTVJFYzlyRnpOa2h6TnRrZ0gtUV9JRTI1XzJ6dTBBME54YnZqMU04bW1DOGNCeU9HZURWckQ2VXV4UV9vamlLVzNSUTZELXlFMjJZX1Q1M1N1ckJ5bHB3M29tMlcyRnIwRkFXYlBpdWpCOEtxSExRLVl0emg1bDZn?oc=5",
-      "source": "nouvelles.umontreal.ca",
+      "source": "Université de Montréal",
       "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT"
     },
     {
@@ -22,7 +22,7 @@
       "className": "anim",
       "title": "The Corner of Hollywood That’s Most Susceptible to AI",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "The Atlantic",
+      "source": "theatlantic.com",
       "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
@@ -30,16 +30,16 @@
       "className": "tech",
       "title": "Smart glasses, AI gadgets: Privacy challenges Big Tech's next bet | Daily Sabah",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUdsQ2ZsTFh3V0RJTWxIN1dOOG0wdVFfMU9NT1B2ZUV4LVRlVVJNWXF4aGx0dnh0TXEtNmpYLVFXbUxDVG5IVmlXbVplRUg1Z3YwSVdpdUtxeldjd1dONURRNENUajJNZXlVT1dxYzU0bUItNzg0aF9oajZ0U1lkSmNQa05kNEtaNkVDQlFtaEhmLWdJTjdWcXZnU0dYMW5SSV9MMDRn0gGrAUFVX3lxTE5xTGROWXpoY3J2bHJOM0taREpyU18xMDVFa2x3STJzVnRCT2M1RzMtVnY5ellWLVYwQ2NoaXJ6VWM0R0dGSFhqWHdRVUNnQ1l4UTliTWh3UWpBUHVjcWhIZ0xGSWxzeVhDMDdyc1RmeXlsVWlvZldiZ2l0X3F4aXI2cVJyNzY2ZFg4ZlpYTG9zMjRqNjFEZHFPdlJuQTlZUWM3TFhhQThYZVBmSQ?oc=5",
-      "source": "Daily Sabah",
+      "source": "dailysabah.com",
       "publishedAt": "Sun, 27 Sep 2026 11:29:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "‘Buy Canadian’ movement just as strong 19 months since trade war began: poll",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPWHAydzdHZDFKVENxYndKZUZoRUJiSE1Oc0RCWGkyamJWVTJISjk1NGNNSUdDc2tlLVdWa3FmcE1YRW1SdXhCTnJOTlBsN0FNRVVoU0s4Rms1ZmdYaFBGdFNLT3pQWkc2dW9tcXlZQ3lYbHdtSDhSTg?oc=5",
-      "source": "Global News",
-      "publishedAt": "Fri, 02 Oct 2026 15:06:37 GMT"
+      "title": "Internal documents detail Ottawa's economic worries over Alberta referendum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelQyalV3NlluUU54YnFGMXhvMTlvVFBWZDhRTXFZMnhXTzg4UjhCU3JsTUxya3VORENFZUJ1eXNKampIcVZIUmNWVWtCeDBBN0JuRDhGR2l1bU5jNXpMak53b3hUdWZIVldSclBrQzRNSVdhakFiWXZ3cmtnRlIxYUxucXl2Q0ExQjdfbWhfNEU?oc=5",
+      "source": "CBC",
+      "publishedAt": "Sat, 03 Oct 2026 12:19:43 GMT"
     }
   ]
 }
