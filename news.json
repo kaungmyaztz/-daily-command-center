@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-04T06:00:43.936Z",
+  "updatedAt": "2026-10-04T14:07:27.738Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
       "title": "Judge tosses drug trafficking convictions for B.C. compassion club founders after constitutional challenge",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaEUyYWxsRlgzOWpGZTJZT2puYU9jenBmYkZYdjJ2bmtmc1hfMm5IeEVyX2FwN0dwbkllZjYwOGNleFZRY3JTN0ZxMEhKX2RtMmsxWU8xLUlPWjdfclRra3J5a043QlJxalBjSjduckdmd0JxdjdOYVlZdjZOTjA2c2EtUXh3QW9CbHVZRTZkOFg2ZnBRMUdYdndxMTZYQXZ1OTA3bEpyU2dXVDZqNU9neQ?oc=5",
-      "source": "CBC",
+      "source": "cbc.ca",
       "publishedAt": "Tue, 29 Sep 2026 14:42:00 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "Creative talent: has AI knocked humans out?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzZsSFpXcmNsMEI3TEhPaGRPS0RsOWV5ZUZaTVJFYzlyRnpOa2h6TnRrZ0gtUV9JRTI1XzJ6dTBBME54YnZqMU04bW1DOGNCeU9HZURWckQ2VXV4UV9vamlLVzNSUTZELXlFMjJZX1Q1M1N1ckJ5bHB3M29tMlcyRnIwRkFXYlBpdWpCOEtxSExRLVl0emg1bDZn?oc=5",
-      "source": "Université de Montréal",
-      "publishedAt": "Wed, 21 Jan 2026 08:00:00 GMT"
+      "title": "AI for Game Development: What Is It and How to Use It?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRU09UOFpOR0tIaTJCTlJfY1JtcmtDZkdfcTJDNFQ4VnhFMlNHX1BkV0RpcnU3cFE1c2xYVGp5X1JyRVRFbzNtdDhRbjFKaDhBUXRWSC05Z1VWckJEeEJQN29fYmxnUHdf?oc=5",
+      "source": "Coursera",
+      "publishedAt": "Fri, 02 Oct 2026 16:23:00 GMT"
     },
     {
       "category": "ANIMATION",
@@ -37,9 +37,9 @@
       "category": "CANADA",
       "className": "ca",
       "title": "Canada’s first project of national interest carries political weight",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1FRUTU0TW5VamVHZ1BBdGdtYjVfVU9RT3o5RjJsMUNoREpMeVZlbl9MX0VhRlRJWkpwTUh5ZUE1M2NfRUNPc1hPazhaSE9wenhvbU85TElLejlMR1prNm9DV3BWQm9aeGFUUW5nazBSZHBYVTMtaHJVeG5PeWE2cERFN3R3VVFVNklJLWh2UHNac294MXg1X3FtdjA4clZvTk9Vbk54Y3ZzNTl5ZHRtSHBPOWxJXzM0WDlxbXk0OHI1NXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjF6QV9VaWpHX0NFQXh3akFCQ21nUlhqWG9PMUx5NFBYVlFYMTVDcEQwSkVvNG9XM1pKSmZsNzRwbEtqbzZuQmVuN1MxSkZ3bVNUTmpJOG9yNmVONEZIUFlaVXM4MFdfMkFvMEUtOGhUdXhBcnoxa3RjRkpONTAwRm9VY3l4d1dOLWlDVEl5ZzlScEx3Uy1vT0FoQi0xUl9MNlV1eUx3c296TzIy?oc=5",
       "source": "CTV News",
-      "publishedAt": "Sun, 04 Oct 2026 00:21:00 GMT"
+      "publishedAt": "Sun, 04 Oct 2026 03:22:00 GMT"
     }
   ]
 }
