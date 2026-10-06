@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T01:20:37.604Z",
+  "updatedAt": "2026-10-06T11:20:39.126Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "A swordfish was found on Haida Gwaii. Will more follow?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1pIcHBHckU4cDFac2J1Q1JFaGNnbko0ODEtLWJVTGNYYXRyZnRMeVd5aGxVUDhHNmw1UGkwZm9nLXZDaURBUVNfeExRNlgxMjNpU3FmX1RpSjR4OEp6elV6TW10SDU4ZXBqcmtXS3N1T09UNkFvOWZiMll0OWZoNnlUMjB6VjFkeUx3N3IwOGIwSkVhUFFlbg?oc=5",
-      "source": "CBC",
-      "publishedAt": "Sun, 04 Oct 2026 13:00:00 GMT"
+      "title": "BC Conservatives say they will roll back uncontrolled bloat at Metro Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTVITU8yQkRnd2lVSV9ZZlQwRG9GZjNVMk5wMTM5V3JaNlM3TjFLN0p0eTN1c3pJaEhONFBKZHpWbzdRUTNoX09JOG1lc2lyUy1uWFVYelJwQ3l4RE8tUjd3dTRBaUxjRC1UNjlLU0ptUHhFZ0hVcWZVUDF4OWVkYnZ5VHhNTUx5RkJmWllrNzJ2akc4STZ4TXMtY3VrMkpDRFZCWVB3?oc=5",
+      "source": "Indo-Canadian Voice",
+      "publishedAt": "Tue, 06 Oct 2026 03:27:21 GMT"
     },
     {
       "category": "AI",
@@ -30,16 +30,16 @@
       "className": "tech",
       "title": "Smart glasses, AI gadgets: Privacy challenges Big Tech's next bet",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUdsQ2ZsTFh3V0RJTWxIN1dOOG0wdVFfMU9NT1B2ZUV4LVRlVVJNWXF4aGx0dnh0TXEtNmpYLVFXbUxDVG5IVmlXbVplRUg1Z3YwSVdpdUtxeldjd1dONURRNENUajJNZXlVT1dxYzU0bUItNzg0aF9oajZ0U1lkSmNQa05kNEtaNkVDQlFtaEhmLWdJTjdWcXZnU0dYMW5SSV9MMDRn?oc=5",
-      "source": "Daily Sabah",
+      "source": "dailysabah.com",
       "publishedAt": "Sun, 27 Sep 2026 11:29:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "American officials have ‘concerns’ about Trump’s Canada attacks, MPs hear",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2ZLXzN6NVpWb1JYVVR5STRpdXE0OHNhcXdmRmN4SUhNRTFUcFk4YldfclNPVmFZY2xQMnJfdmVtTmJuTzdmYkNXRUd6TWtUN3FsalI2OTgxdnVNYmtheWlDS05HeFprT3RiVVl2aHo4ajh3Nndoc2JuM003ZGdPTEV3?oc=5",
-      "source": "Global News",
-      "publishedAt": "Mon, 05 Oct 2026 19:50:10 GMT"
+      "title": "Separatists win Quebec election in test for Canada PM’s national unity strategy",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTEtURzU3Z1RBTmEwYW9oMEZkdVZHODFzLU9ZdTNZbTlDOV93NDJWbkRKMjlZOTJPWEdfVXFzSzRNZ1hxTGtYNXotdmRFZVFCQjZOM2RyRFVsT0J4YTNadDdYZTJELXhqY1lpeTVxb2VqWm5ZNWJsMTQ1dXZjU3hIZXZqMU9rREwwU1NLWFkzaVpYLTNLMklGVkpWNEVjUnEwbHc?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "Tue, 06 Oct 2026 04:38:00 GMT"
     }
   ]
 }
