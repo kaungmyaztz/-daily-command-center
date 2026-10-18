@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T22:24:52.861Z",
+  "updatedAt": "2026-10-18T04:42:31.442Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "B.C. Election 2026 - Breaking News, Polls and Live Results Map - CTV News Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4cUJYTktnUGc0RTgyNldRei1ycS1tUzRPWUxyVHU1Q0MybFBweGVhc0JETnExLW1EZG9TMU93c1NLaXFrQnE2SFp4T3VFZmFGeE5DNzBfQmVBZkRvUUgxbm5mTnA1dU50cTI5VW52TTBSNlpHSnc?oc=5",
-      "source": "CTV News",
-      "publishedAt": "Sat, 17 Oct 2026 22:06:35 GMT"
+      "title": "B.C. Votes 2026: Municipal election results",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOTNaSlNTS3hQRlBpcVQwSWZ4allWbmZzWUNqTi1zRndJcU43U2IxWlBzbUtqMHVlQmc0RVhIamhkUnozRmNFVEJ5bGhBdzFFQ3ZBWHJYajRvVFQzWmtfaWNReldLLWdScHhvUThLbnZSTjZnVTg4MWVzSW1LeTJYZWM3dDRPZWg1VGQ0?oc=5",
+      "source": "CityNews Vancouver",
+      "publishedAt": "Sun, 18 Oct 2026 02:03:54 GMT"
     },
     {
       "category": "AI",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "CANADA SECURE HISTORIC VICTORY OVER ENGLAND IN FRONT OF RECORD-BREAKING 18,621 HOME CROWD AT BMO FIELD",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRENOMXJxN3lzeEljYUl2S19iMExkLWpkQmY1YWxVNVhJM1M5WERmc3ZIZzRzVno0WnRSZ0MtUm1QY3k1WVlYOGw0ZXIyWW05N09EemlTLXpTTldGZFROZS13Wjc4WUtmLWRfcWI1TEVMMmpUeFJfRTFwLWFKTmR5MXJqcUNGbVdBcGdkVTRyV2oyYV8xR2l3SnRKQ1lFZC1OVWViMXIzVnltYWRFSHNOWm5OeWJxc2t3TEFWMGxHd014bWVrLTkyQXJfbW9uMFBV?oc=5",
-      "source": "Rugby Canada",
-      "publishedAt": "Sat, 17 Oct 2026 13:37:03 GMT"
+      "title": "Global National: Oct. 17",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04cDVsN09UeUdZczVlMXRVVnFPTXpKdTZva0g2b0xUYmk0d3hLOFoxcWxsNmlyWVRNRVI4T3AyMC1fQmlhaHdKN2hreDJ0X3lFR3lfUlZnTzFPSEdQLVFsemhQa043eGhsazJlQmFvZ2k?oc=5",
+      "source": "Global News",
+      "publishedAt": "Sun, 18 Oct 2026 00:53:28 GMT"
     }
   ]
 }
