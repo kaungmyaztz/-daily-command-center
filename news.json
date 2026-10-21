@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:13:24.830Z",
+  "updatedAt": "2026-10-21T04:57:54.288Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -20,26 +20,26 @@
     {
       "category": "ANIMATION",
       "className": "anim",
-      "title": "The Corner of Hollywood That’s Most Susceptible to AI",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "The Atlantic",
-      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
+      "title": "Anime’s boom finally pays off — for some",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2h0clBYcDZpVHJiMk5pUHc0bXN2ZV9DNjVlRlRJWHZaLWFKVGVvVXl1dnhsV3NpVmh4eHhjelVuLXJjNW1PVWtxcW4wUldHSGhjREpybVhLbnZFVkQwM1RaUG5LNUllLUxkTUtYYjRoalpHdEZ0bXRfYVNWWjAtWUF6UVZNdnJ6?oc=5",
+      "source": "The Japan Times",
+      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT"
     },
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "Smart glasses, AI gadgets: Privacy challenges Big Tech's next bet",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUdsQ2ZsTFh3V0RJTWxIN1dOOG0wdVFfMU9NT1B2ZUV4LVRlVVJNWXF4aGx0dnh0TXEtNmpYLVFXbUxDVG5IVmlXbVplRUg1Z3YwSVdpdUtxeldjd1dONURRNENUajJNZXlVT1dxYzU0bUItNzg0aF9oajZ0U1lkSmNQa05kNEtaNkVDQlFtaEhmLWdJTjdWcXZnU0dYMW5SSV9MMDRn?oc=5",
-      "source": "Daily Sabah",
-      "publishedAt": "Sun, 27 Sep 2026 11:29:00 GMT"
+      "title": "From brick phones to AI glasses: How tech took over our lives in 40 years",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGk0cG9pVmdpNUtIbHRqY0xaUld0SmJhVmF3bmdFNlB0TU8zQ002MS1QU3VYOFdjRnFOUW1rRUdCdFFHS1NHUHQ5ZlV3aXBEd2VORVlQU3VIeGVCM1VNNXZOMHBMU0hGUXNJbl9DTHFFR0dMUkVUSGotS1E0MVJKcmpxaWtBMmlJSVFzMktLa0dkWEtEeDF3TTliUQ?oc=5",
+      "source": "The Independent",
+      "publishedAt": "Sat, 17 Oct 2026 11:18:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Canada ‘muddling through’ without national research infrastructure strategy, panel finds",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3ZHNFBBVWVjNUI4WXRDd1pBOVM4T0RVeVlUNjJFXzhmcHQ0UzVReUJwUWpMcHdmQ25rUEY4V0kydG03UEYyOGFremEtQTZZaElJVjF2RjBKR0RkTHVOc3lSVFNtVzhOdTI2N0lzVjBWb2ZHcjFxNlFMZjE1V0t5R0FyOGU4UGJlbmFHcmNxWERLT2VlOUpHLXBlbVV4cklHZDRHS0hHYnE4VElfU1dYaFl3X3Rkdkp4OU1ZSA?oc=5",
-      "source": "University Affairs",
-      "publishedAt": "Tue, 20 Oct 2026 16:55:42 GMT"
+      "title": "Alberta's decision to stay in Canada gives Carney backing to take on Trump",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DRHlSVGJuLTFTNHFvZ1htNWUzcDV4ZjVXVnFCaHlQQXN0dG9sTEFWbkJHUzdrRTZzZm1EejlhNUNGWTZVLUNMaFdWNmNuZVEzbUFYTkVBcnAwcnM?oc=5",
+      "source": "BBC",
+      "publishedAt": "Tue, 20 Oct 2026 22:22:17 GMT"
     }
   ]
 }
