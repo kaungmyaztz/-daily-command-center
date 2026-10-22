@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-21T23:25:54.650Z",
+  "updatedAt": "2026-10-22T04:59:22.233Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "NDP focuses on Surrey, B.C., battleground as election enters home stretch",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVd4WC1UQ2lFXzI2Y3JVUVhIcUpIN0RfZ18zVnlIYkx3VmFGeWh5S2pPbW5jakxzNndZUFZwY2p1cW5ubUNBUUJiWHBFcTdodzhka3hYT1FpYnVLSExaQkV3VGRKVnFtSGNMTXRjZG1wMl9xb1hrZ01ZNHo3MWlYTGp6a1lNUWVPZDd6S0dXaHFXWTFyRDRqSnhJYw?oc=5",
-      "source": "insauga.com",
-      "publishedAt": "Wed, 21 Oct 2026 19:30:13 GMT"
+      "title": "Vancouver residents vote yes on 2 plebiscite questions regarding drug use",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSEVKOHphYlNJeG1TSTM0THZvVkp3MkV6eElXb3hOOVkzcFhlc21pZEpETG1fMVRHRlFCejRRTXhrdlowZm1TMkkzN05ZbEI5c1JGdDZfN3JFal9YUEN0ZDhjZ3R1STFINC01SDBhblRnTXZVRXlWU0dnNXYxcENRSU4td1NqUS1QZGNHVWU1R2poS0JpZnByZHJhSEJXUU9sVXc?oc=5",
+      "source": "CBC",
+      "publishedAt": "Thu, 22 Oct 2026 00:37:00 GMT"
     },
     {
       "category": "AI",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Ottawa taking down some federal websites over critical global vulnerability",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Z3RwTkZ5eUZtclNwQmwzU215WTJnWXZQcENQNWFHYWl0Mll6eXd6N3hGdWJ1bDdyWEM3UWxTWmVPZ212RS1sV3N5YzlrMmlJNUY0SU9UV2JINW40MmRVMUxDS2s2LV9yRDZkRjdfNndVaThMbFhuY2tWV1ViUkk?oc=5",
-      "source": "Global News",
-      "publishedAt": "Wed, 21 Oct 2026 13:48:03 GMT"
+      "title": "The National | Alberta Premier says UCP separatists can join another party",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82eXNQRmt0eUIzQTR2elhQSXRWZTkxUW1KMXRiYjJPeC12Z2FqLVZEdUN5a2lXUUg5NDV4ZjJwbFBTdzVFcWpmTmk3VWVjSXRiY0QxVGc1dWdGdw?oc=5",
+      "source": "CBC",
+      "publishedAt": "Thu, 22 Oct 2026 03:53:08 GMT"
     }
   ]
 }
