@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-22T13:52:11.467Z",
+  "updatedAt": "2026-10-22T20:11:21.088Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "BC election 2026 results: West Vancouver-Sea to Sky",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQm83Uk9ab3pmSEJhUzBYZWsyVmNESkpFOHlzRzB3TXpwWjgwZ0ZDVG5weWRlWmhQS2xkek1NRE9IYTd5dGFfVmRjZ2NWLW9jcS1tZGRURlppMkhKc253bzg3QjdFTW16RUlDN0g5RmVkUy1YVDBmaVk0NjJMVTZ1bGp0ejdWLUM1MGQ3OVF1dHU?oc=5",
-      "source": "Global News",
-      "publishedAt": "Thu, 22 Oct 2026 04:15:03 GMT"
+      "title": "80% of BC residents feel forced to cut spending; groceries one of top pressures",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGt5VWhsdlZicUdlQmFXUGd1a25ZYl8yZGNfd0ZRNkZZOVhoNFhMQ29EVEktSGg0Q3Y2aWtycmNCdHhUQ3FxSE5VcHk3MFFRaXZCNDBtQy05Wkp6R3VYbVREU2VLNGU2ODNfSUtmb04yenJmWm1pOHVsT24xcWJxVlN1Yw?oc=5",
+      "source": "CityNews Vancouver",
+      "publishedAt": "Thu, 22 Oct 2026 14:01:29 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "Beyond Generation: Why the Creative Workspace Is Becoming AI’s Next Frontier",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTlJdzlIYkJ0SkRxN2s4dkNHLVJYX0lzVGJXWDRCT2hBb01FLTFWeUxqUVR5YkJkeFBraXdvbjc3bmNyNXAxQS05NjczN1hFeG9TR2VwRmVTUlV4bUVZYU9KTVRUUWtoYzY0ODFrZFhWczBybGFBM3BPdVhTWnpiUjAzaU1PRWdfc3BRaDBqU2UycmhVM1ZZMjRiajZwbG92?oc=5",
-      "source": "TechBullion",
-      "publishedAt": "Thu, 22 Oct 2026 11:15:07 GMT"
+      "title": "Why AI Cannot Replace the Transformative Power of Human Creativity",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hc0w2XzhzTWZ1UHYtZGhDTUMxeDIyeXN1WjFPMkUyWEwxRkdPUjkybkxpeVRaLW5wMnVNc0I0c0dWOG91OHZJbXpkdUhaZ2k2VUYtT2lzdjBMSlZDODk2UGJYUUg5a3NhajZPb1ZIdFowMWZm?oc=5",
+      "source": "Neuroscience News",
+      "publishedAt": "Tue, 20 Oct 2026 19:22:11 GMT"
     },
     {
       "category": "ANIMATION",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Some of Canada's top scientists push for changes to Carney's new major projects bill",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1hmN2t4SWx4d0VKbi1pZWljaFI2am93N1czei1xdThLckduUUpzQzFKOVV6Zk43TXZRaHNNazBJWVpiczFQdHkya1ZYNGpOX0JBcjB0SlhJWGZLZlBBanBobGFKLVBQZzNILW83VGFTRENpbVJQVTctQ0UzRHhoMUpjQ1FUMGFuVVdrZFZqVQ?oc=5",
+      "title": "Federal government announces $60M in additional funding to national sports organizations",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWQxcUtRVFo5Zy0ydGFHSDMxckdqekd1X2hLZjU2Z0R2aVRPd1d5Qk5VTTcxZUh4Q2pac3MtRkNkV1p5MkxMNEtZbEhGVFRERUwxZnpwMmhtbUdINnNBUHhQTkRkeEd0TlFIZXZHN2VuTzVjMnBSeHB2eElyRHRrUm9pRW8zZw?oc=5",
       "source": "CBC",
-      "publishedAt": "Thu, 22 Oct 2026 08:00:00 GMT"
+      "publishedAt": "Thu, 22 Oct 2026 18:16:46 GMT"
     }
   ]
 }
