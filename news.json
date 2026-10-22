@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-22T04:59:22.233Z",
+  "updatedAt": "2026-10-22T13:52:11.467Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Vancouver residents vote yes on 2 plebiscite questions regarding drug use",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSEVKOHphYlNJeG1TSTM0THZvVkp3MkV6eElXb3hOOVkzcFhlc21pZEpETG1fMVRHRlFCejRRTXhrdlowZm1TMkkzN05ZbEI5c1JGdDZfN3JFal9YUEN0ZDhjZ3R1STFINC01SDBhblRnTXZVRXlWU0dnNXYxcENRSU4td1NqUS1QZGNHVWU1R2poS0JpZnByZHJhSEJXUU9sVXc?oc=5",
-      "source": "CBC",
-      "publishedAt": "Thu, 22 Oct 2026 00:37:00 GMT"
+      "title": "BC election 2026 results: West Vancouver-Sea to Sky",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQm83Uk9ab3pmSEJhUzBYZWsyVmNESkpFOHlzRzB3TXpwWjgwZ0ZDVG5weWRlWmhQS2xkek1NRE9IYTd5dGFfVmRjZ2NWLW9jcS1tZGRURlppMkhKc253bzg3QjdFTW16RUlDN0g5RmVkUy1YVDBmaVk0NjJMVTZ1bGp0ejdWLUM1MGQ3OVF1dHU?oc=5",
+      "source": "Global News",
+      "publishedAt": "Thu, 22 Oct 2026 04:15:03 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "Dave Birss has advice for anyone using AI at work who wants to stay creative",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVFVVWUlGQ0M1ejl3Sm11YUs0dmdiZlMwMmhLQXpINzdtV0RZZklXdDVDd1FCaDBfR3hKd0ZCWXI0bGVISXFBU211X0FzTTRWTmtibVlDWUUtYnlMTEFjRlN3V2VSaWVSRmNGUm5taHc?oc=5",
-      "source": "Vogue Adria",
-      "publishedAt": "Mon, 19 Oct 2026 17:24:50 GMT"
+      "title": "Beyond Generation: Why the Creative Workspace Is Becoming AI’s Next Frontier",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTlJdzlIYkJ0SkRxN2s4dkNHLVJYX0lzVGJXWDRCT2hBb01FLTFWeUxqUVR5YkJkeFBraXdvbjc3bmNyNXAxQS05NjczN1hFeG9TR2VwRmVTUlV4bUVZYU9KTVRUUWtoYzY0ODFrZFhWczBybGFBM3BPdVhTWnpiUjAzaU1PRWdfc3BRaDBqU2UycmhVM1ZZMjRiajZwbG92?oc=5",
+      "source": "TechBullion",
+      "publishedAt": "Thu, 22 Oct 2026 11:15:07 GMT"
     },
     {
       "category": "ANIMATION",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "The National | Alberta Premier says UCP separatists can join another party",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82eXNQRmt0eUIzQTR2elhQSXRWZTkxUW1KMXRiYjJPeC12Z2FqLVZEdUN5a2lXUUg5NDV4ZjJwbFBTdzVFcWpmTmk3VWVjSXRiY0QxVGc1dWdGdw?oc=5",
+      "title": "Some of Canada's top scientists push for changes to Carney's new major projects bill",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1hmN2t4SWx4d0VKbi1pZWljaFI2am93N1czei1xdThLckduUUpzQzFKOVV6Zk43TXZRaHNNazBJWVpiczFQdHkya1ZYNGpOX0JBcjB0SlhJWGZLZlBBanBobGFKLVBQZzNILW83VGFTRENpbVJQVTctQ0UzRHhoMUpjQ1FUMGFuVVdrZFZqVQ?oc=5",
       "source": "CBC",
-      "publishedAt": "Thu, 22 Oct 2026 03:53:08 GMT"
+      "publishedAt": "Thu, 22 Oct 2026 08:00:00 GMT"
     }
   ]
 }
