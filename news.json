@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-27T05:13:57.469Z",
+  "updatedAt": "2026-10-27T14:36:46.767Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "B.C. election: Conservative Lorne Doerkson wins",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlpWcjBIU29QUGViWDBDV0xxTWc1NGprWTAwSVVwZlBEdm5mWDhlU2k2S2QyZDlXNjYyWXNRT2Y3RVhOcTVMMjhFUUJ6dHBxTjI3X1dlZVdiZWExTjJNOXhxaW5VNzg2RDAyYnY3c0NzZ3BLZlZKZFJjNUxlSUdOUjM0Znc3eUtoX2dJam5lYw?oc=5",
-      "source": "CityNews Vancouver",
-      "publishedAt": "Sun, 25 Oct 2026 04:02:39 GMT"
+      "title": "Global News Hour at 6 BC | Watch Global News Hour at 6 BC News Program Online - Full Episodes",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Vd1paNS1fOVhqNFRZb2dDaVUyODBROUJXVjFfUTNSVlh5c3NDcW00bkxBNjZscXIzQ000NlVDc2FGbzZhTkJpTW1LZ0NyYTEzRldQTG5XSFdwY0hmeVQzWXhKMl92UDhueXg0VDkyaWtvLVE?oc=5",
+      "source": "Global News",
+      "publishedAt": "Sun, 25 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "AI",
@@ -28,18 +28,18 @@
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVZhSm5JQThubW9NSHBObE1BMFBHWndCTmdXczBOVkFjTHZPU3Rkc1ZhQV9HMHEtb1ZxMkR6ZFBLNnVxQ3YwZDQza2NXNkpfckV3cWdwZ0k2bEdGVXpXbTNVZjhwd0d1ai1yb192UU10NGFEdGxROEpQQ2RYQUVzWnZSVEl5WXFwOU9ibFBhN2RmdWdNVzNfYnNsSlF5WTBvWVVlNDh6eEVWNFk3bE1TMUNR?oc=5",
-      "source": "Bloomberg.com",
-      "publishedAt": "Tue, 13 Oct 2026 07:00:00 GMT"
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlPUEprazRLcDF3OW9MZW11SURDckdxRjdla2hLVUl5cGtvS0hyNEpyY0UzdmhyYXRraTloUW0yUVBoUVRDQnhvaUNfcm05UG92a3RtWHl2VDJCVGxHVXdMX0p4VDRzdlBnc0V0XzFlYWhNNk1sNEMwNVByWmNQQ0EzUDA0VDV2M2MweDgxQ2ZMRWQtV1J2N1U4NHk5UGZoTVhBX24yZkthNmY0OTF2eHVjcw?oc=5",
+      "source": "Ars Technica",
+      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Canada-U.S. trade talks ‘moving quickly’ at political level ahead of midterms: sources - National",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjNVUGZmYnBuS1NCV1Rrd2p3QnI3THJxbUpraXVONkxsRldBMTNzWFdOS2c5aTZqaXhGUWpWazQ3dUJEQXhVeXZGZ1hJMzUzemc1VkxoenFQQnE1UzcyTm1VMlZmV1M5Z3E4Sk10YVJKZUtBR21qYmR3cVRNZ3VST3Q4TkN3d21Ta1E?oc=5",
-      "source": "Global News",
-      "publishedAt": "Mon, 26 Oct 2026 20:43:28 GMT"
+      "title": "The National | U.S.-Canada trade talks intensify",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheU1UTXhhNnQzS2hUWXBCU3BQS3BNeF9XT3NiWC1sV3NlWEhLQWdBZVZGQ3ZVQlMtVTJpdTdyTU91Q2JaTGhLcml1RklBTThqWXlYRkZad09Idw?oc=5",
+      "source": "CBC",
+      "publishedAt": "Tue, 27 Oct 2026 07:44:26 GMT"
     }
   ]
 }
