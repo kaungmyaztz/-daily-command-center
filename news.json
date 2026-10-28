@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-28T05:52:19.511Z",
+  "updatedAt": "2026-10-28T15:10:39.222Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "B.C. Conservatives committed to repealing DRIPA",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUdVa1RSTzNSQjZSMUx4bEM2YzV2dW5lYndQNEM0T3ZWcEZBMzMwTjRDOTZKX0ZWd2JTeWprZVk1a1ROaXl0Q0U1UWJWNnZ1WVBJVmp4bUU1MlNYR2haSXI4elJDaUVrOHZ6b3c0bXFXazRTTkUxVmNHaHprWXk4ZEk2SlA0aU83d1htTw?oc=5",
-      "source": "CityNews Vancouver",
-      "publishedAt": "Tue, 27 Oct 2026 14:57:49 GMT"
+      "title": "B.C.’s incoming premier doesn’t support tanker ban reversal pitched by Poilievre",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0JfSk9qenVYTkNpbW5ibFdNYjhJY0JtZVpjaTg0czB6aEVIV0RucGpSVzlyb2hsb1BTZmo2YnNIMG1NeVBjSFhJUHR0VWxCMDh5elpRYkZhRko5dnl6MVhIQV9CUXEtOXNmeWVnREhoX2NYNnhqdzJ4OWFwbWhJOG15YTVwaHJOd1JQUUtOWm1FalFDRUdqNFJvaXJRNnQ4azVPdWZUdlVfUmNDQUJwRlIxdXdIalpJQnc?oc=5",
+      "source": "CTV News",
+      "publishedAt": "Wed, 28 Oct 2026 01:39:00 GMT"
     },
     {
       "category": "AI",
@@ -15,15 +15,15 @@
       "title": "Apple Enhances Creative Studio with New AI Tools and Features",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzNONUxaZGxLNWNDNmI1cGJJMGJlTXhQT2N1SlMxR3EyWXItV2lhSnNtcWNXM29xM0dOb1pJNVZaektNQ01JR3BHTWZfQVZNQ2tlUENHNmx0ZlJhWDY2YzlvVFU2WHBFZzVNdnp5VEVySjZnZXNyWE1hWTV3Mi1oT0M2S2xkenBnSWxFUEs4a3VVS2RDeFpCdGsyQXNqQQ?oc=5",
       "source": "India News Network",
-      "publishedAt": "Wed, 28 Oct 2026 05:34:35 GMT"
+      "publishedAt": "Wed, 28 Oct 2026 05:51:34 GMT"
     },
     {
       "category": "ANIMATION",
       "className": "anim",
-      "title": "Anime’s boom finally pays off — for some",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2h0clBYcDZpVHJiMk5pUHc0bXN2ZV9DNjVlRlRJWHZaLWFKVGVvVXl1dnhsV3NpVmh4eHhjelVuLXJjNW1PVWtxcW4wUldHSGhjREpybVhLbnZFVkQwM1RaUG5LNUllLUxkTUtYYjRoalpHdEZ0bXRfYVNWWjAtWUF6UVZNdnJ6?oc=5",
-      "source": "The Japan Times",
-      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT"
+      "title": "The Corner of Hollywood That’s Most Susceptible to AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
+      "source": "The Atlantic",
+      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
       "category": "GADGET",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "The National | No clear winner in Israeli election",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82eXNQRmt0eUIzQTR2elhQSXRWZTkxUW1KMXRiYjJPeC12Z2FqLVZEdUN5a2lXUUg5NDV4ZjJwbFBTdzVFcWpmTmk3VWVjSXRiY0QxVGc1dWdGdw?oc=5",
-      "source": "CBC",
-      "publishedAt": "Wed, 28 Oct 2026 02:15:46 GMT"
+      "title": "MEDIA ADVISORY: Canada’s largest unions unite in Ottawa to challenge Carney government over right to strike",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN0xoS3NMSWhiUWxVdkMtSHpiZVU2NFZNcFNSY0JES21ETHhtaGZsYmxuc29nMklLc0dfOW51UVY4YXZzUklwUUNoLXVXcWtVUTNVR204M0xIcmlKRE5KOGtUekhCYUVoRTcxQ3h6QnZzOXNYWl9XT1hrSnlGdXh2dEl3aHNkQWFLcDFlMHRyRFdmVzN1ZjAzOXJiNjRLcXAzcVdrS1JrN1ZEZHh6dDVpX3EtRmZkeHg3bmEyNjM3RHk3THkwYkxWZmwydnM?oc=5",
+      "source": "Canadian Labour Congress",
+      "publishedAt": "Wed, 28 Oct 2026 15:05:33 GMT"
     }
   ]
 }
