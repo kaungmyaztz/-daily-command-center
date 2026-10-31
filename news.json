@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-31T05:53:31.546Z",
+  "updatedAt": "2026-10-31T14:34:53.783Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Environment Canada warns of 'pockets of heavy snow' in B.C. Interior",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0w3aWd3cUFaLXJwc3VPa2R6WW4wS3JhMU41YWozYk9YWDJaeWlES2FCeXYtNFNTVS1HWXBFMkxRUXZNRUhwX1dpT3VWWDJJN21pMjAwR190ZFo4MEdEVFhiVDZUMzNCWVdQVzNLeXJRTk9NYTJVX3FpV0NLdGxfY1FjMGw4VHpyeU5YeGoydG1kdXpVaTU3aWlzOU9xODFfNHR5VGo0OW5mdw?oc=5",
-      "source": "CTV News",
-      "publishedAt": "Tue, 27 Oct 2026 18:33:02 GMT"
+      "title": "Trump cheers Canadian provincial election wins, but analysts say they're no rebuke of Carney",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcWZ5UXB4Q3ZYa1dJR254TlluMWxiWEIwSXFHWGtjeVhvVWtkeW9PczV2VHEway1lV0tNZ1FIZFd0RlVCcmIxU3lCVTZIZFVKSUdiNVRfWVpNRXp1YzJRdk8tNWVOSm5EZllUMXJ1V2N5bjdtQXBrWGJ1cXJFU1d5VHhpb3hJYlRMNmRkNmdzZHBlXzFjMHMwaldKNTcwODdwT19BajVfZTlDVUt4c2xpVEFlckY1T044ZnFBWmgtQm5NWGlLdzdhQU9CcjE?oc=5",
+      "source": "CityNews Vancouver",
+      "publishedAt": "Wed, 28 Oct 2026 15:21:10 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "Apple announces new value-added AI tools for Creative Studio",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTFaUGpFaFpyZXp0RndXZWFSR19aZDRpU2xuQXZFaUhsS0xYUVNKU0l2RkYzWmZpMGRuc1NoaTlvdTFabnRCSkZ6ZVBHcEJfbV9SY0x1XzMtQ2Q2dXQtX2NfTlVuU2YtVXIxRUROYjliUTMzMzY4Z2Utb1o2VmE5RmxndjhZOG56ZVprbWQ4LUhacV9aUVlJcHQzSWRKbGI1YVk0U0xLOFlXckRZdVVZVGtfX3EzNWFXRk5YREo5UVlwbkFxa3RKNXhHMThJZWs?oc=5",
-      "source": "Deccan Herald",
-      "publishedAt": "Tue, 27 Oct 2026 15:01:24 GMT"
+      "title": "Best AI Image Generators of 2026: We Tested All the Biggest Creative AI Tools",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
+      "source": "CNET",
+      "publishedAt": "Thu, 15 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "ANIMATION",
       "className": "anim",
-      "title": "Anime’s boom finally pays off — for some",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2h0clBYcDZpVHJiMk5pUHc0bXN2ZV9DNjVlRlRJWHZaLWFKVGVvVXl1dnhsV3NpVmh4eHhjelVuLXJjNW1PVWtxcW4wUldHSGhjREpybVhLbnZFVkQwM1RaUG5LNUllLUxkTUtYYjRoalpHdEZ0bXRfYVNWWjAtWUF6UVZNdnJ6?oc=5",
-      "source": "The Japan Times",
-      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT"
+      "title": "AWN Jobs Roundup, October 29: 14 Animation and VFX Openings Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzc4Umtvdzh0dXZjQ2ZDdlJKempwSlhFYWtEQ3hPYVBuRTladHB6Y24tendBRkZiVldmY1JOZ0dYbnB6bmtNQ0tleG1GaVVyRDJmZG9fb2Y1TEEwbXY4UVFfMllTaklkU09HT09ibHdnRjF1UWQ0VXZvTkEzQVZiLXRtaUZZMGZmdjlCMjFTeFE3OC0zVkN3?oc=5",
+      "source": "Animation World Network",
+      "publishedAt": "Thu, 29 Oct 2026 13:31:31 GMT"
     },
     {
       "category": "GADGET",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Canada's new national security strategy will shield economy, modernize military",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Y2RzZDRTZGZQa2QyMFc1d1J5WW9OdUN1ek03a2tRT3U0WjZ1MUs2aVc4NjhRMVJ5em55Q0tHM3hSaGVxYkNPeU9Vc2daMDFucUlwQWVpYTZUM3F3YWN1Y2w3LTA1ckFSOGpYTzdHVDN2NENsWnZ6RQ?oc=5",
+      "title": "Parks Canada set to slash warden detachments, officers across national parks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmlScTdKZ3djZ214YURJS1YwbVZmTGdkSngwRW9rSzhTbTAxWW5zWXB5Z1lrbm43YmJfVlAxRUVEQTk5QWNrOFFzcDgxYXBnQlI1a1NUQ3l5b2prMkc2OXFJTzlWd2N3UUQ4SGVpdU9mNEpnZzNrWFRDZlZfLWlKSTQxakZVT0FyLTd2YkpOWGZzdGh1R3ZKUzM2OERRdw?oc=5",
       "source": "CBC",
-      "publishedAt": "Thu, 29 Oct 2026 19:44:44 GMT"
+      "publishedAt": "Sat, 31 Oct 2026 12:01:09 GMT"
     }
   ]
 }
