@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:18:55.845Z",
+  "updatedAt": "2026-11-01T15:15:44.107Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -20,26 +20,26 @@
     {
       "category": "ANIMATION",
       "className": "anim",
-      "title": "Anime’s boom finally pays off — for some",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2h0clBYcDZpVHJiMk5pUHc0bXN2ZV9DNjVlRlRJWHZaLWFKVGVvVXl1dnhsV3NpVmh4eHhjelVuLXJjNW1PVWtxcW4wUldHSGhjREpybVhLbnZFVkQwM1RaUG5LNUllLUxkTUtYYjRoalpHdEZ0bXRfYVNWWjAtWUF6UVZNdnJ6?oc=5",
-      "source": "The Japan Times",
-      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT"
+      "title": "The Corner of Hollywood That’s Most Susceptible to AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
+      "source": "The Atlantic",
+      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVZhSm5JQThubW9NSHBObE1BMFBHWndCTmdXczBOVkFjTHZPU3Rkc1ZhQV9HMHEtb1ZxMkR6ZFBLNnVxQ3YwZDQza2NXNkpfckV3cWdwZ0k2bEdGVXpXbTNVZjhwd0d1ai1yb192UU10NGFEdGxROEpQQ2RYQUVzWnZSVEl5WXFwOU9ibFBhN2RmdWdNVzNfYnNsSlF5WTBvWVVlNDh6eEVWNFk3bE1TMUNR?oc=5",
-      "source": "Bloomberg.com",
-      "publishedAt": "Tue, 13 Oct 2026 07:00:00 GMT"
+      "title": "Smart glasses, AI gadgets: Privacy challenges Big Tech's next bet",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUdsQ2ZsTFh3V0RJTWxIN1dOOG0wdVFfMU9NT1B2ZUV4LVRlVVJNWXF4aGx0dnh0TXEtNmpYLVFXbUxDVG5IVmlXbVplRUg1Z3YwSVdpdUtxeldjd1dONURRNENUajJNZXlVT1dxYzU0bUItNzg0aF9oajZ0U1lkSmNQa05kNEtaNkVDQlFtaEhmLWdJTjdWcXZnU0dYMW5SSV9MMDRn?oc=5",
+      "source": "Daily Sabah",
+      "publishedAt": "Sun, 27 Sep 2026 07:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Canada's new national security strategy will shield economy, modernize military",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Y2RzZDRTZGZQa2QyMFc1d1J5WW9OdUN1ek03a2tRT3U0WjZ1MUs2aVc4NjhRMVJ5em55Q0tHM3hSaGVxYkNPeU9Vc2daMDFucUlwQWVpYTZUM3F3YWN1Y2w3LTA1ckFSOGpYTzdHVDN2NENsWnZ6RQ?oc=5",
-      "source": "CBC",
-      "publishedAt": "Thu, 29 Oct 2026 19:44:44 GMT"
+      "title": "Prime Minister Carney launches The Plan for a Stronger Canada to strengthen sovereignty and build a more secure and prosperous future",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1nLVpaS0lQaVd3bTZIVTV5anU2d2JBT3djYlNpVnRqZEtBOTZ5SC04RkloYldneEtRc2U1T21JSnlMVG5fQWZVZ1lxNXpoTC1ZVEhqbEFWWlNVcnR1T2NxdVNnVEtoanZKbEpJUmF4d200aDM3U3B5ekwtUDRSTWpDQ2s4MF9VZE1yV0w1djcySlBhSzV0cjJlUG1SX0hkcW42bXBKYVRXanVaMlozTmNKbVBCSms?oc=5",
+      "source": "Prime Minister of Canada",
+      "publishedAt": "Thu, 29 Oct 2026 14:00:00 GMT"
     }
   ]
 }
