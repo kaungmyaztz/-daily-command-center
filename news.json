@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:00:20.640Z",
+  "updatedAt": "2026-11-03T19:33:38.184Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -10,20 +10,28 @@
       "publishedAt": "Mon, 02 Nov 2026 14:49:56 GMT"
     },
     {
+      "category": "AI",
+      "className": "ai",
+      "title": "AI video generator: How artificial intelligence is changing video creation",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTE5alVDVlFlam12YTYzOVpndHJod09lUEN4YnVGakVMc21GWFk1ZFItcDlFZndfQmZYamVMaEhHOVZWQ3hRdHpEWWJ0RkNGYnJ2Q1M5VFZKQnVoMUJ1QkRaNDNUOFhzcV9MSWxKQzNnZGpCeWpUV0FtaTBDUFgwSU5PUHk3SVpqeUZtV1otd1UxNEdpX3dqTkU1bmVnM01sdl9mNFVmdnVWUQ?oc=5",
+      "source": "London Business News",
+      "publishedAt": "Mon, 02 Nov 2026 08:42:41 GMT"
+    },
+    {
       "category": "ANIMATION",
       "className": "anim",
-      "title": "The Corner of Hollywood That’s Most Susceptible to AI",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjN0tDUWtoMmhMQUgtNmFpV0ZlTmtON1ppdDJGRElQQWZqa3liZGxXai0zRnRpQjlnSGN2RTEtZ1ZjOHB3aTVqNmhrdjFJTUo5NEd0WlRqSm42aWk3Y3Vrc0NockNfNjFNc29RLVYwdHJFTDJQTy1zZVJ0WkdZMG1RXzNqUVB4dVZaRE5GNVRqaGJaaERz?oc=5",
-      "source": "The Atlantic",
-      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
+      "title": "AWN Jobs Roundup, November 3: 28 Animation and VFX Openings Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV2MwWVpuV3h3dHYxMlk4cHVvRm1jSVdIWlVlWTJkdm9IbV9FNjJpdG5BRTZmcHI1RE5RdnFTQkFrbWFYbXlIb01EMURTdDUxYmE3QnhyUTdSQld3SGY3NTdodEZra0Q1MnhzTTdpeDU4aVpoeWprWFBxVUhYTGg2ODdIWG40b3c5ekdLVnhQeTBxaUlKel9N?oc=5",
+      "source": "Animation World Network",
+      "publishedAt": "Tue, 03 Nov 2026 13:49:35 GMT"
     },
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "Smart glasses, AI gadgets: Privacy challenges Big Tech's next bet | Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUdsQ2ZsTFh3V0RJTWxIN1dOOG0wdVFfMU9NT1B2ZUV4LVRlVVJNWXF4aGx0dnh0TXEtNmpYLVFXbUxDVG5IVmlXbVplRUg1Z3YwSVdpdUtxeldjd1dONURRNENUajJNZXlVT1dxYzU0bUItNzg0aF9oajZ0U1lkSmNQa05kNEtaNkVDQlFtaEhmLWdJTjdWcXZnU0dYMW5SSV9MMDRn0gGrAUFVX3lxTE5xTGROWXpoY3J2bHJOM0taREpyU18xMDVFa2x3STJzVnRCT2M1RzMtVnY5ellWLVYwQ2NoaXJ6VWM0R0dGSFhqWHdRVUNnQ1l4UTliTWh3UWpBUHVjcWhIZ0xGSWxzeVhDMDdyc1RmeXlsVWlvZldiZ2l0X3F4aXI2cVJyNzY2ZFg4ZlpYTG9zMjRqNjFEZHFPdlJuQTlZUWM3TFhhQThYZVBmSQ?oc=5",
-      "source": "Daily Sabah",
-      "publishedAt": "Sun, 27 Sep 2026 07:00:00 GMT"
+      "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVZhSm5JQThubW9NSHBObE1BMFBHWndCTmdXczBOVkFjTHZPU3Rkc1ZhQV9HMHEtb1ZxMkR6ZFBLNnVxQ3YwZDQza2NXNkpfckV3cWdwZ0k2bEdGVXpXbTNVZjhwd0d1ai1yb192UU10NGFEdGxROEpQQ2RYQUVzWnZSVEl5WXFwOU9ibFBhN2RmdWdNVzNfYnNsSlF5WTBvWVVlNDh6eEVWNFk3bE1TMUNR?oc=5",
+      "source": "Bloomberg",
+      "publishedAt": "Tue, 13 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "CANADA",
