@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-08T06:14:18.896Z",
+  "updatedAt": "2026-11-08T15:19:45.523Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Up to 120mm of rain expected in parts of Vancouver Island as storm nears B.C.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR21Nd01Sdm55WFl6ZWtVUUt0RmRaWE4wV1RNenRXbFMxNDBpUXlwMHhDcldaS0VTNXdLdGtQQm5GRmVuUzlrajE2OEpaN2ViWmR5bkZYX3FLT3BsZnhFS2lkTFJZWHRvN096eG1sbFBZQi0tVGtLRm5IcXBjUUExU0oxVXNaNnBDSEpMeWY5R3NidldqU0dPWngzUUtHT0lnU2lxY2lMX0MyaG1FSUwtMXVVSWRpcDEy?oc=5",
-      "source": "CTV News",
-      "publishedAt": "Thu, 05 Nov 2026 16:53:59 GMT"
+      "title": "Vancouver, BC Current Weather",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0l1NEJ6Z3dpWmF6MWJMM0pTX0hXWHFJbm1rWk9vMm9FdmltdnhMTENraElDNmpFTEdlNU5GWGtWaGpOY19CQlZaaGJjQ2JhWEFXSDN5QnBkbDFIWGZBWHVpbFo4YktLNGRhb2lqeVotTW9VNmNwb2YzV3RQampzMGNROVltdw?oc=5",
+      "source": "The Weather Network",
+      "publishedAt": "Fri, 06 Nov 2026 08:00:00 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "Best AI Image Generators of 2026: We Tested All the Biggest Creative AI Tools",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
-      "source": "CNET",
-      "publishedAt": "Thu, 15 Oct 2026 07:00:00 GMT"
+      "title": "AI Art Studio: Redefining Creativity Through Technology",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFUxMmVXNFh1SGtIMkh1MExSMWhOYXNkTGtXeG95bHBNSjVXRXFnbFhIVVNEWERJZTltVVQ1ZVBsY0RKMklxNWdkckQ5TVVpVHJBckRJalZEbWxWQkd6bXd6UjdMajNhU1VMU3FtSEFla2t1aW9GTjhmTXc0NklzTHZXSVl2Zw?oc=5",
+      "source": "quasa.io",
+      "publishedAt": "Thu, 05 Nov 2026 08:20:16 GMT"
     },
     {
       "category": "ANIMATION",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "CTV News wins 42 RTDNA Canada awards, including wins for CTVNews.ca and W5",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGV5eDJiT2xZa3liS1p3aVU0eVF5am96TGx4N3ZxMEJtaWVEQ0JmNzFVdTdROGlTYlNlcThScl90b1VmTFA1X3E2eFVqa01zTGs1dV90eGVIUFVLMmREN2lwM1R6WFlQWW54LUlZTGV0dlFLNVFzY19rVTVmbzdSWmhmeHRJUHI4Vm1lbGdUd2ZCRFlXVjVPVlJud0tONFZ0UE56eTF4OEV0RWtMUE9aSw?oc=5",
-      "source": "CTV News",
-      "publishedAt": "Sun, 08 Nov 2026 02:24:00 GMT"
+      "title": "Prime Minister Carney launches plan to put Canada on a path to end homelessness within 10 years in Budget 2026, starting with a landmark partnership in Manitoba",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0ZuaEM2UUJZS1pVX3ozYW1jS0J0cFptLUluU2lELUw5R0tfZ09adl9ZU3ZSZ2V4YzlRdGFVYTd5Z0F6eERaYVhkdFF0TXlvMW5DYnBtNFZSM1pQTU9XTVBlMldReWhHZk83MUg5b2luUHhieWUwZXFyNDM3NlBZMnowT0w4elJITkw2ZkNwSlJaRkNFNTRjaDRLS05kTy1JcmtseUtIWVVodEFNUXRUdUhiM1gzY1UyNjczT2lYbw?oc=5",
+      "source": "Prime Minister of Canada",
+      "publishedAt": "Fri, 06 Nov 2026 17:24:40 GMT"
     }
   ]
 }
