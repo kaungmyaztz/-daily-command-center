@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-11T06:39:13.091Z",
+  "updatedAt": "2026-11-11T16:16:32.703Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Flood risks grow as B.C. faces deluge from a new atmospheric river",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzJtYS1fZjd0dmVXTkpTbUZoajdZSnRLVW5XZGYyVlJfX29Lcll3Y25hTU1qbmlwZlVHN1RnaFVTOEh5c1JKXy11T2lCb21RYldUUUFfb3M3emZwZ21XNDhxRE96dWVpc0tQS0Y2Z3JTSnlNUnFLZ2FjVWlGVlF0enJNUUxxbzVZOWVPQ3pwZVNvTml0VlpJaTdNbGI5eTVKR1lPSFdOeDJ0NHZlYlYtanltTWxRcDVtTjBnb2p1ZTlxd1U?oc=5",
-      "source": "The Weather Network",
-      "publishedAt": "Tue, 10 Nov 2026 17:42:00 GMT"
+      "title": "Rain hammering B.C. south coast may taper, but more on the way",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGlzQnc4RDJqblRqMXlPRndZQzlwV3A5VmxRSk5RdkRoU3Q1Y0JVLWVJdy1KdHFvRWJmakNTWDhFeW9BSWQydzNCaUJKSEpjWGlUcVpTNnFhVmdkMnI3SE5lRFZtWUVOSWZGN3BRUk1kQU1uYlpncWMydENlaXFLQXFnZ2c0UFZhSzFKamln?oc=5",
+      "source": "www.insauga.com",
+      "publishedAt": "Wed, 11 Nov 2026 13:22:59 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "AI and Africa’s creative economy: who gets the value?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRllCOGRONkMxSlVuM0F0cTVZcmhiMm52eDV5WndiZEw1N3hwZWk2SHNWVGExM3VFYUxKVnladWFxRDJxTlFnVXQwRU5ic0ZNXzVHVlRHSFFUTXNncEV5WTFEZ0YxWWg4LWR2V1gyRzJtMjdtYjRJZERQQUxhWWpwaUF2T1haTGU3aUVWMmhyZVdhZjRfWjJwdy1n?oc=5",
-      "source": "African Business",
-      "publishedAt": "Tue, 10 Nov 2026 10:07:47 GMT"
+      "title": "Adobe opens Creative Cloud apps to third-party AI assistants",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWtVOUxhSFBJWHZIcnRPY19JMUdIa1gzZUplOXlXU1g4Ymp1Y3hjdExWOUQzeUVaUV92MHlia0R1MVVWc0xJMjdaRkdYbWVsSC15bjUyRFJES01HLTB1SWpnM09WWkdmQTJuUnpnMnRhNzBQZDZSV3UwM1h3cEJfcXgyX1pVOFZ6TktoOWxhdnVsM3gtbFlMS1VGbVdGRkY4QWN2TGRNcGxMUnRrV3FXag?oc=5",
+      "source": "Computerworld",
+      "publishedAt": "Wed, 11 Nov 2026 10:50:57 GMT"
     },
     {
       "category": "ANIMATION",
       "className": "anim",
-      "title": "AWN Jobs Roundup, November 10: 24 Animation and VFX Openings Worldwide",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0tQZUZzWi1CTHh5UTNnSzMwcWNnaWNTOEpMUlZOWWdCa2ZlODlEUmhZMlNUWWhRZWtiYTJtNVZJZmpZTFFfRkVPS3B1Zm1MTGdLRzU0aS1MYk1xR242QUhCcjNFZC1xU2ZqZU5WTU55YXFFMllJZDdNOS1wZ2NOZHRrYjRtQVlQZEhOR1dONWF2VDdjZEZOWA?oc=5",
+      "title": "AWN Studio Jobs Roundup, November 9: 11 Openings Direct from the Studios",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFhTDhfc2dBbFltRjloREhVY0JhNTJuUnE1ZldZakVnVWx4MVB6S0ZnOUg4TWNoY3RkcHR3UlRrYTQxQTNBdnpHMklfMEtqLWY2ejVqTjFzM3I2dEJsWWlKcklUZk9VS2d0OG9SV2RnVDVUcTU1MHFlTW5ybXBtcnE4LVRTOGVDeEVCa1RNdw?oc=5",
       "source": "Animation World Network",
-      "publishedAt": "Tue, 10 Nov 2026 18:22:21 GMT"
+      "publishedAt": "Mon, 09 Nov 2026 14:26:22 GMT"
     },
     {
       "category": "GADGET",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "The National | Hegseth impeachment derailed",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82eXNQRmt0eUIzQTR2elhQSXRWZTkxUW1KMXRiYjJPeC12Z2FqLVZEdUN5a2lXUUg5NDV4ZjJwbFBTdzVFcWpmTmk3VWVjSXRiY0QxVGc1dWdGdw?oc=5",
-      "source": "CBC",
-      "publishedAt": "Wed, 11 Nov 2026 04:13:54 GMT"
+      "title": "Remembrance Day ‘connects us across generations,’ governor general says",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IelFGd2RTbm5XbGZZQnB4ZU1McklNM2hOS2V4RElFZElRVTdCOTMtdE9pal95Z0NrTjVTV3dSWXJlajJnSlJxci1QZkpleWdUVGV6aHpjMGNONFJpbFlOMjV2enBBd0Qz?oc=5",
+      "source": "Global News",
+      "publishedAt": "Wed, 11 Nov 2026 14:56:01 GMT"
     }
   ]
 }
