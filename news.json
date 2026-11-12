@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T07:21:18.121Z",
+  "updatedAt": "2026-11-12T16:51:41.749Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Third storm heads for already drenched B.C. coast",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWFXSU40bU0yS3lUSnFSVUpyd1R6MVVHYkdPbUg3d0JLRlZicURpbVEzMlU1SlNUc0toOUNFQV92QmVTVnJUeHNRbEZINnIzaWtoVkhKN1NvWXJ1N1BnNlFnQTZPanI3NnVaYzJaeEdKRHAtNEtfLU8wRnhxSGZmMEFVTWhaN001UVJRcllXa3pLem9j?oc=5",
-      "source": "CityNews Vancouver",
-      "publishedAt": "Mon, 09 Nov 2026 13:52:11 GMT"
+      "title": "Renewable and Low Carbon Fuels - Province of British Columbia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmdVYW5fMEJHS3RHb0NoZVVmdk84RjktSmNjSm40cXIyaHZ2eUtQcnpKRGFQT2JxQl9CYnBvdDJBS1NITkxvWUdFazV6Ui1GbmhMdHhzVkRCNFBnZk9BbmJxdkFkWU9UTkh5a1pDYTJXNHpiZjlYM081VHk0OFdTMTZNV0VHZVJwZUdkSy1CdEppb3V3UFZxYlZTeGRLdElJbVJFRWxfcFhrNVVHdFducFNtZnNUd2R6VXYzbDZjdXRSU28?oc=5",
+      "source": "Government of British Columbia",
+      "publishedAt": "Mon, 09 Nov 2026 08:00:00 GMT"
     },
     {
       "category": "AI",
@@ -28,18 +28,18 @@
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlPUEprazRLcDF3OW9MZW11SURDckdxRjdla2hLVUl5cGtvS0hyNEpyY0UzdmhyYXRraTloUW0yUVBoUVRDQnhvaUNfcm05UG92a3RtWHl2VDJCVGxHVXdMX0p4VDRzdlBnc0V0XzFlYWhNNk1sNEMwNVByWmNQQ0EzUDA0VDV2M2MweDgxQ2ZMRWQtV1J2N1U4NHk5UGZoTVhBX24yZkthNmY0OTF2eHVjcw?oc=5",
-      "source": "Ars Technica",
-      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "The Royal Canadian Legion hosts Canada’s 2026 National Remembrance Day Ceremony",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmc0YjVxVE8xLV9FajAxQUlWaUJwZjhISVk2ZVNVdExtSUJsRnFiT2tWWThaS0xKR2R4ZmxNWUFxRTJlZUhSRFdmSDJlNmMwcDRjZUprbktldW9qMVlGZTZxR1hUdnB2VU5xTWF6MGtFak1TYmp6TDVoM0M4WFRlUHIwTVpCSDJMLXdSMU0yWXkwZ3F6Mm9vTUJyWlZYaGo4NjZZcGVrYmRnTmF6Qy1taWFqS3lGM1FhcDNkWndXZ25kbERo?oc=5",
-      "source": "The Royal Canadian Legion",
-      "publishedAt": "Wed, 11 Nov 2026 20:07:25 GMT"
+      "title": "Prime Minister Carney highlights largest culture investment in Canadian history",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdldDbkRiczRFUnZhTmJQZXNHT0N4c2Y4M1F6MnFTUkhnUElTaEt2a1NqeXBYQjhUZDJIV0RoOUZiLUhlU01aSkxVSEd0T3prdjhObXN3bVh3el9BRjg4SlBqRFl6bmMzUG5vc2hFZXNReDlmeER2eHd5N1Nma1VELXY0dG4tOXQ2dmdjVW9JVlhicHJhN1hTdEM2VEJfTHhXcjZldUs2RWNqOGNNWXRGdHc2VEEzakdwSkQyU0o4WQ?oc=5",
+      "source": "Prime Minister of Canada",
+      "publishedAt": "Tue, 10 Nov 2026 16:00:00 GMT"
     }
   ]
 }
