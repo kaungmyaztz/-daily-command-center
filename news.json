@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T16:51:41.749Z",
+  "updatedAt": "2026-11-13T01:10:09.707Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Renewable and Low Carbon Fuels - Province of British Columbia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmdVYW5fMEJHS3RHb0NoZVVmdk84RjktSmNjSm40cXIyaHZ2eUtQcnpKRGFQT2JxQl9CYnBvdDJBS1NITkxvWUdFazV6Ui1GbmhMdHhzVkRCNFBnZk9BbmJxdkFkWU9UTkh5a1pDYTJXNHpiZjlYM081VHk0OFdTMTZNV0VHZVJwZUdkSy1CdEppb3V3UFZxYlZTeGRLdElJbVJFRWxfcFhrNVVHdFducFNtZnNUd2R6VXYzbDZjdXRSU28?oc=5",
-      "source": "Government of British Columbia",
-      "publishedAt": "Mon, 09 Nov 2026 08:00:00 GMT"
+      "title": "B.C. home sales slide 11 per cent in October as Lower Mainland struggles",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdC1Hai11MkdTVEJydnpNZDU3UUR1R3FlVHVfRm1GSk5HRHBjU3hfZUdtblhDVGI1ZGFyYUQ5WjVvYkRzQ2ZiblM0WFdkMzdQbjFyRVFlcEt1Y01NOTg0amVZa3JoejY4eUt1enFzNVN4SW1TTzNMN3pEVnhjb1lvajR1QjhPTW14MHNzdzFKazlOQWNqVndjTnEzMlM0VEg1RmR1NXl2Z2RUWnVkN0pQem81ZmdWZw?oc=5",
+      "source": "CP24",
+      "publishedAt": "Thu, 12 Nov 2026 16:38:12 GMT"
     },
     {
       "category": "AI",
@@ -28,18 +28,18 @@
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5",
-      "source": "Reuters",
-      "publishedAt": "Thu, 24 Sep 2026 07:00:00 GMT"
+      "title": "Buying Smart Glasses Is About Privacy as Much as Specs. Here's What to Know—and Which We Recommend.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWtFMl8xRXB3ZUw4LV90TVc1cHhVOE9PYU4xOVdqV2hsWkwxMFZHcWpkaHFjTVBIaDF3c1g4bnRxWVRjcDQyOHdPbzVlRTR1UnJUZ3BkalpHWkFwOUlfWGhoeVRoV0c3WV9acTc0aVRBbnlEbENKUU93SnRfRnJLSUxybE1IX3FP?oc=5",
+      "source": "Popular Mechanics",
+      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Prime Minister Carney highlights largest culture investment in Canadian history",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdldDbkRiczRFUnZhTmJQZXNHT0N4c2Y4M1F6MnFTUkhnUElTaEt2a1NqeXBYQjhUZDJIV0RoOUZiLUhlU01aSkxVSEd0T3prdjhObXN3bVh3el9BRjg4SlBqRFl6bmMzUG5vc2hFZXNReDlmeER2eHd5N1Nma1VELXY0dG4tOXQ2dmdjVW9JVlhicHJhN1hTdEM2VEJfTHhXcjZldUs2RWNqOGNNWXRGdHc2VEEzakdwSkQyU0o4WQ?oc=5",
-      "source": "Prime Minister of Canada",
-      "publishedAt": "Tue, 10 Nov 2026 16:00:00 GMT"
+      "title": "‘Canada pays the price’: Local group protests national projects bill",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzQ0bW5aRGlwUlp4WHdzdHZlOEhRWGwzWW9MN3FUT1h2bnR3eVk4Y1YyR0gtT2tiaFlYQTNwTGpudEg2M3dnUWstR2Y2bHFDTDhqenA0NGcyeHpCU3FkXzgwRi01Qm42VWxQWVl4UHRmRE52cGZpMnE3WkVVNU5VcnlfSGMwU2ZiYUl3ZlM3VVZXeEhQckVuRjM0Um4tbFZUTGZhdy00WHlpZjVkR1IyeHJlVC1zY3c?oc=5",
+      "source": "OrilliaMatters.com",
+      "publishedAt": "Thu, 12 Nov 2026 23:20:24 GMT"
     }
   ]
 }
