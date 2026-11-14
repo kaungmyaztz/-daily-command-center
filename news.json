@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-13T22:00:04.791Z",
+  "updatedAt": "2026-11-14T06:38:32.321Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "RCMP say third body found in B.C. flood tragedy",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczNqdGgxMlZUZWowZ2NGVXZTSzhzWVNCR0o2MnI1ZnNTY3l3LVk0X3JnOGw5SlNOd2pYYlJUcjZ5cXFwZzFPZG4tSjdGeFNiQ3dmcGt6aUxNQTVYM3Q1aVRPMGp2NjVLeFRSZFpPSDZMQ0ZjWlZNNWdGUmh0eXUxdkVEMTlNNlpRazczUTZyb1BjMWRWNm41TDFmQ2UwdHM5MEpMVy1R?oc=5",
-      "source": "CTV News",
-      "publishedAt": "Fri, 13 Nov 2026 16:26:21 GMT"
+      "title": "Judge warns against ‘rumours and innuendo’ before Galloway trial witness testifies",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmdabTNNRDhacWk4TEdiR0hZcXlIU2w2bUY3dnk5amo0S3Y1V3JaM1dhNTNYYjM0emlZVm9LNkRoU3I5VTNTbF9pMVpzT0tCQjVYQjZQalN6X1N1VVBrdlUtV0tMLUdVRUZnQ2Q3T19kdUZJNzNFVUdGaWt2UEVWVmZPOHowOHVheHV1YXRZRjNKeGh2MG4tamxwSGZ3WUFQVDM4T1poRHA2SmFaejd2bWpsbm5BaEF0LVEtM1RoNA?oc=5",
+      "source": "CityNews Vancouver",
+      "publishedAt": "Fri, 13 Nov 2026 22:38:38 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "AI and Africa’s creative economy: who gets the value?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRllCOGRONkMxSlVuM0F0cTVZcmhiMm52eDV5WndiZEw1N3hwZWk2SHNWVGExM3VFYUxKVnladWFxRDJxTlFnVXQwRU5ic0ZNXzVHVlRHSFFUTXNncEV5WTFEZ0YxWWg4LWR2V1gyRzJtMjdtYjRJZERQQUxhWWpwaUF2T1haTGU3aUVWMmhyZVdhZjRfWjJwdy1n?oc=5",
-      "source": "African Business",
-      "publishedAt": "Tue, 10 Nov 2026 10:07:47 GMT"
+      "title": "AI Won't Replace Engineers, Expert Says",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTno1UE9XY21INmRPZ19jWkdiU1NzZmxWQjRTWE9jbzB3V3REbXJGVUFseGx5SDFBWUhXZGxCZ19NVDVSLVFYenktUi1lel8zWFRydmRFNk1RMFhORnR2WE1ITUVfM2g5QXd2OTBialhjZms0bFB3TUppN0hTVXVGOGRnMXpWc3BQbHJPMzI3SGhZR3BkYnhWRTBXN2N5a0RudV9Eby14OUJjTlFvVUJxZlVBdGVUUXVadEtOOVduWHluZ2ZrdW1yMw?oc=5",
+      "source": "Design News",
+      "publishedAt": "Sat, 14 Nov 2026 00:21:19 GMT"
     },
     {
       "category": "ANIMATION",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "UBC researcher built Canada’s only national impaired driving database to shape road safety",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWw3QnExWkxiX2otMERacDBLb2RfcV9sREs3TTJXZVI1YWVuY1JWUUJoMUpINVRvaWQ0Q180OUNtZFVSQzZPZzY5TktDRVZwTmdlamZLS1lSWWd3XzV0TzJReUZfQlA1ZW9zTGN0RVJlRWdXZ3g3Qm8xejdhYV9FOE04enJGV0gwcGRUci1WX0VydEViVlBjVFo0RjdzVzJUamtIeFQzcGJjNVRIaWIxcVlmYlpVN015eFE?oc=5",
-      "source": "UBC Faculty of Medicine",
-      "publishedAt": "Fri, 13 Nov 2026 18:38:17 GMT"
+      "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjQ0xJTk0tSnR6UGVLYTBKRW9oaHF0Wk1DMjJ3eU44dmRtMG5vY3dFeHhzcld1MU1idHZNamlYcEJYQVJMZ2FuS1BGT0ZFcDB1NDVEQnVjcHRTYXBqbU1HWVpoRFdEdmFlUEs3TG9LNVBPcmNN?oc=5",
+      "source": "Global News",
+      "publishedAt": "Sat, 14 Nov 2026 03:39:49 GMT"
     }
   ]
 }
