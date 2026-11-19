@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:24:43.627Z",
+  "updatedAt": "2026-11-19T23:05:22.503Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -12,10 +12,10 @@
     {
       "category": "AI",
       "className": "ai",
-      "title": "Artificial intelligence (AI) for schoolwork",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUt5SzRIUDJGQjNHNlVLM0dET1dKWWNoUENLbUFYcjQwQUlMVnVobm9reVBKZEx0Z2VaREFlbHgycTdhNllSaDB5Q0JRSzAzYjdXUzRCb1VyZl9EOXJfbi1iRG51RW8wS2hjWTEtZTZ3QzVjRHdjMVhjaUtkRjNMWExKdWN5QQ?oc=5",
-      "source": "Britannica",
-      "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT"
+      "title": "Cochrane announces selected AI tools for innovative platform study",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWd1Uy1WQlFieGQ3c0t2ZVNXcmJ0V25BR1JfcmowWVplTTN0VWQ1eXZqcjhLNnloeWpianFkZS0yRm1hYXRvVmNUSFpKTUUxYU1UMWJrZUFBaXlrcFNXU0ZfVm1weUpTdDZVaVRxclYwakxZcHlUcHhDd0dJQ3FhQllVb29sVWw1dm0tMzVDOWV1U2dBMlB4VFBqRzhNUjRUeWY4?oc=5",
+      "source": "Cochrane Collaboration",
+      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
       "category": "ANIMATION",
@@ -28,18 +28,18 @@
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "Complaints About Meta’s ‘Pervert Glasses’ Won’t Slow Tech’s Wearable Gadgets Drive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazd1RFhZMk9qcEdxYkh1Zkl2WUxCZW5SaW9zYmtCdDFfZ2kzckRSMUNibk56clFvTmg4blZmajhaa1pyM1B3UlNaTFdqZmVhMzlMWERVV2NVampHOXUxT1RmMTFTWGh3RWZSNGE4R25MTW1lRWpMb3VJSlhqUEVuYzU2YVNMMThyS0tqaWxUVQ?oc=5",
-      "source": "The New York Times",
-      "publishedAt": "Thu, 24 Sep 2026 07:00:00 GMT"
+      "title": "The 5 Smart Glasses And AI Wearables Trends That Will Define 2027",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkx4cmFTdFpNTXVmN2drR25jcHY3OTVXazd0anFMVVlibDZRUTBNdFd2bm1VTWJIMHdLMTRQemlOQkZRRkQ3M2toZWttVTV1MlZQcFZGcUNKRm5lNGxMYmdicExuSHZVdEV0aEtDNENHTmhoYmF3UzVrNUpCeFFNWllMYXJ2VXUwcWQySU1ZeHh2cHVLeW9Ia3pfTGZBa25MeGNVWlRMSC1iejR3TlMzLWItdXIxaDJyU3c?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Minister Fraser to hold media availability on Canada’s national Judicial Symposium series",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMW1vUmROUFIwOGp4VEFFX1pyLTFhSHVZQVMxM0tOYVdpRmE2T1pfakFqS1dhM2dKd09WNHhzaTB3U19aZHRVbXpfa2t0QmZWcEk3Z0ZJRXhjeFBfNGhCQ0FjSEpla3N5bktibnVQcWlaQVBTcEdzUmJYcXJva1NBUlFPcVB0aC1CQ0Ztc05SaHd6UUJpUEdBWFJ1T3QwaGNhYWlrc1M5UVM1WjFzbVpwYnNMYmRub1psNzRQUEh6cGh6MUJHeFp5a2dJVzJWeG5zLTh1RHFLOVZGYVgyWlY2VXFKNnM?oc=5",
-      "source": "Canada.ca",
-      "publishedAt": "Wed, 18 Nov 2026 18:00:50 GMT"
+      "title": "Canada seeking interim trade arrangement with U.S. by end of year",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRnBjZG05NFlOU0JObDJ1R2wxMDEtSUFqZy1iWFJINXNpSlhKbkpiYVA0WHZfdnBta0VjRkF4YWI0clF6MEdNdTFYVkpHamFJT2paaGU0Rk11eGxrRnRYOFVOWHFQc19NMHAtNS1VazhRcmFWdkJ0NlZ6MG5fODVfZkZscWxYbl93aEE?oc=5",
+      "source": "CBC",
+      "publishedAt": "Thu, 19 Nov 2026 22:22:57 GMT"
     }
   ]
 }
