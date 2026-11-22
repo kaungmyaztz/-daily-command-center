@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:41:43.405Z",
+  "updatedAt": "2026-11-22T07:01:19.045Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -18,14 +18,6 @@
       "publishedAt": "Thu, 19 Nov 2026 23:11:26 GMT"
     },
     {
-      "category": "ANIMATION",
-      "className": "anim",
-      "title": "AWN Studio Jobs Roundup, November 9: 11 Openings Direct from the Studios",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFhTDhfc2dBbFltRjloREhVY0JhNTJuUnE1ZldZakVnVWx4MVB6S0ZnOUg4TWNoY3RkcHR3UlRrYTQxQTNBdnpHMklfMEtqLWY2ejVqTjFzM3I2dEJsWWlKcklUZk9VS2d0OG9SV2RnVDVUcTU1MHFlTW5ybXBtcnE4LVRTOGVDeEVCa1RNdw?oc=5",
-      "source": "Animation World Network",
-      "publishedAt": "Mon, 09 Nov 2026 08:00:00 GMT"
-    },
-    {
       "category": "GADGET",
       "className": "tech",
       "title": "5 Smart Glasses Worth Buying for Real World Use",
@@ -36,10 +28,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUw4cTVYRTY2bjROcGdCVThmMEJqaENWQmVaV0F3TGpOakQyT3RlYUZlYTJweWE5LWJ2Y25GRVBpVVgwcmZlekROMGQwYzgydHFQdzVTb3Bkc2JOd3hIUGpVTkpBdUpjNVF0c3IzX25NVlQ4OVNGdm1WTmI1a2JoNWwwajVCSkxFa3NHV1pNNnZBSWFzUXlTOUZ3?oc=5",
-      "source": "CBC",
-      "publishedAt": "Sat, 21 Nov 2026 15:50:52 GMT"
+      "title": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wRERidFV2N2tWYWZrYW1KNU1HT25Lbkp1eEhnT1dDOF93cXNRd181eGhrMTBudkNoRk8wM1hIcGtOQ0Z6SldfLUgyTE1pVzU4b0NiZjBXeVVCWUpmekJfTE9pLVM?oc=5",
+      "source": "Global News",
+      "publishedAt": "Sat, 21 Nov 2026 18:53:58 GMT"
     }
   ]
 }
