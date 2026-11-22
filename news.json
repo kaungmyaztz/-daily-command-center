@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:01:19.045Z",
+  "updatedAt": "2026-11-22T16:21:42.031Z",
   "stories": [
     {
       "category": "LOCAL",
@@ -12,10 +12,18 @@
     {
       "category": "AI",
       "className": "ai",
-      "title": "Canva lets designers turn off generative AI tools in subtle shift from pure AI hype",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNalYzc2o3NzNKdUcxMWdDZGd0NEdkd1FFSE10Sl9WSlUzRkpJWjIwQkhyRU1LU2RDMXN1TmZXbmpRUW5IT3FlTkoxR19sTnZXSERBQTFneW41OG5mZ3JuYkJvRl9QSlVqS3B0OEpqVmVRbXlCZTVWU2duV3JqeHpteGFvVDF5em9MQzBvenhGVGFzMDdDZnhCODQwdGc?oc=5",
-      "source": "SmartCompany",
-      "publishedAt": "Thu, 19 Nov 2026 23:11:26 GMT"
+      "title": "How Artificial Intelligence Is Transforming Digital Content Creation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTVvOFpKNklFZWQ0aTBUYUQ2Vl9XOUZQVG1Rb1NhQ3lUQzRNWUpabW1VVjV0WEdObXN3WmRKeUVVUzUzT0ZoUHZRcXRHT3NaUktEZFEyOWNhZGRkbE9rWTBWSXRQVHVjellhbW1Mc05KOTdkbjZCekFHQWw2UXdVQ3JBazhXS0Q3dlkteGs2UGN2RzdfcXFpeXh0cWJkMkk?oc=5",
+      "source": "Tech Critter",
+      "publishedAt": "Fri, 20 Nov 2026 02:24:00 GMT"
+    },
+    {
+      "category": "ANIMATION",
+      "className": "anim",
+      "title": "AWN Studio Jobs Roundup, November 9: 11 Openings Direct from the Studios",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFhTDhfc2dBbFltRjloREhVY0JhNTJuUnE1ZldZakVnVWx4MVB6S0ZnOUg4TWNoY3RkcHR3UlRrYTQxQTNBdnpHMklfMEtqLWY2ejVqTjFzM3I2dEJsWWlKcklUZk9VS2d0OG9SV2RnVDVUcTU1MHFlTW5ybXBtcnE4LVRTOGVDeEVCa1RNdw?oc=5",
+      "source": "Animation World Network",
+      "publishedAt": "Mon, 09 Nov 2026 08:00:00 GMT"
     },
     {
       "category": "GADGET",
@@ -28,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wRERidFV2N2tWYWZrYW1KNU1HT25Lbkp1eEhnT1dDOF93cXNRd181eGhrMTBudkNoRk8wM1hIcGtOQ0Z6SldfLUgyTE1pVzU4b0NiZjBXeVVCWUpmekJfTE9pLVM?oc=5",
+      "title": "Global National: Nov. 21",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CRC1wVzNYTWNReTMzX1VRa1oyRDZSUl9oc0JTZnA2YmI5VUQ4SmEycGtMSWcxQ0tKUFliM1hlampTX19XU3NLR3hDM0t1LWVNQzU5ZnVtMnVTeko2YWpqMzk0SkJ2V2I0a3l3bkJUZ1c?oc=5",
       "source": "Global News",
-      "publishedAt": "Sat, 21 Nov 2026 18:53:58 GMT"
+      "publishedAt": "Sun, 22 Nov 2026 01:25:03 GMT"
     }
   ]
 }
