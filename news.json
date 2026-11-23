@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-23T00:56:02.299Z",
+  "updatedAt": "2026-11-23T14:50:38.238Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "WATCH: Global News Hour at 6 BC: Nov. 18",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HQmRpVFhpWWZnVHN2QWNmQTVSUzIzVDFHZGQtR2JBdTZfVEN0ck1GUlFxM2NvSUpRWEI2d0laM25QdF9ra3JxOWZrWDhWbWVjQkw3NVhvQXQzSVJ6amlJMw?oc=5",
-      "source": "Global News",
-      "publishedAt": "Wed, 18 Nov 2026 22:00:00 GMT"
+      "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1EtMUFDdE5DS0pBQ25CUzlRRC1OamVZTzROZkJaeGoyWHRVQ0hQYTE4OF8wckpWU2xGUGVoaEpNQWJVV1NkVWlPLXJvQWlkQnRxbDNBOXFRczZYNnpMclVDUDhJa2dJMUVkbmJXSkNoQXdXbEV2YV9ZYW5la1dHczlIaWw4Znh2RWMxM21yOA?oc=5",
+      "source": "CBC",
+      "publishedAt": "Mon, 23 Nov 2026 03:55:00 GMT"
     },
     {
       "category": "AI",
@@ -36,10 +36,10 @@
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "U.S. trade chief sees progress in Canada talks, raises China concerns",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUEhXU2VadGw1Ulh5MkFkRGRIWTNOYzgydHQxdUVVTjJnOGVKaU5SaENLTkVwZ2VraXNIeWdaSHNHY0V5TTVGSGthTDhtdW8wNnZwTndhbXpwd2s3UlZZOVV3LWR1dE9CU2l5V19FVFMzNm1JaHgzanF5WTVqQzByN0RDSzYtMWNydjI3RlZKeGt0dC13NHhxYmtLQkZISlB0X0t2WS1LOW10WlVHdWVraWdFU3pnWXlGYVFZaDljT00wUVdIbW8tQnNjemZac2o2NjBlQXhxcEZlVzZkaFVvbGd5WnEyX3haQXNfTVJ5cG5RMVIz?oc=5",
-      "source": "thecanadianpressnews.ca",
-      "publishedAt": "Sun, 22 Nov 2026 21:46:22 GMT"
+      "title": "The National | Hegseth reportedly moves to restrict defence ties",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZnAtckM5S0F1a1VnaDl3anJJUDc2emMzSk5XWHlnM3BCWVpiZEotTnF1YXczaFN5dFFsLTlTNWtNT25kUEdFTG9ZVUNCZjhYLUE?oc=5",
+      "source": "CBC",
+      "publishedAt": "Mon, 23 Nov 2026 01:11:34 GMT"
     }
   ]
 }
