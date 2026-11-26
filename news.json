@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-25T14:31:56.039Z",
+  "updatedAt": "2026-11-26T00:29:13.947Z",
   "stories": [
     {
       "category": "LOCAL",
       "className": "local",
-      "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1EtMUFDdE5DS0pBQ25CUzlRRC1OamVZTzROZkJaeGoyWHRVQ0hQYTE4OF8wckpWU2xGUGVoaEpNQWJVV1NkVWlPLXJvQWlkQnRxbDNBOXFRczZYNnpMclVDUDhJa2dJMUVkbmJXSkNoQXdXbEV2YV9ZYW5la1dHczlIaWw4Znh2RWMxM21yOA?oc=5",
-      "source": "CBC",
-      "publishedAt": "Mon, 23 Nov 2026 03:55:00 GMT"
+      "title": "Heavy rains, storm surge, high tides cause ‘real drama’ along B.C.’s coast",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUtMYXJBX0NWMk5mLW84Z1VYamVHcWxkeXhMMG9xeE5zV1NiNTNhdUlvSnlCRXFSd1NWYjNOZ193aHVMT2xDRnRORGlYRm9GaF82bmQtLWFfZnB1MjY3MnU3U19ua05CSFRJZS1LNk9nbUpQSXo3TlY5MVBQSGxBNE1tOWdVX0hOQkhHNlVhWW9EU01OTTZTSnkyUzF2NXkzRGZXQ0hzOG51V1VRNG1XZQ?oc=5",
+      "source": "CityNews Vancouver",
+      "publishedAt": "Wed, 25 Nov 2026 13:22:22 GMT"
     },
     {
       "category": "AI",
       "className": "ai",
-      "title": "AI Empowers Creativity and Creates Work",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LdkZPUTZlMFN4UE56R0FDV0tQaHN3bmt0TWc5SFhlcVFIVUlPT0s2LTNEMFVFTTJLMGNQLTN0RjMzdG5jeUdRRFE5Q2gtZVRLb0tNTTYyY1JlcFlRTko2QzFLeTdrSGhGbU9aMVA2ZVlLcFlfV3l4NlZYQQ?oc=5",
-      "source": "Walter Bradley Center for Natural and Artificial Intelligence",
-      "publishedAt": "Tue, 27 Oct 2026 07:00:00 GMT"
+      "title": "Artificial intelligence (AI) for schoolwork",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUt5SzRIUDJGQjNHNlVLM0dET1dKWWNoUENLbUFYcjQwQUlMVnVobm9reVBKZEx0Z2VaREFlbHgycTdhNllSaDB5Q0JRSzAzYjdXUzRCb1VyZl9EOXJfbi1iRG51RW8wS2hjWTEtZTZ3QzVjRHdjMVhjaUtkRjNMWExKdWN5QQ?oc=5",
+      "source": "Britannica",
+      "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT"
     },
     {
       "category": "ANIMATION",
@@ -28,18 +28,18 @@
     {
       "category": "GADGET",
       "className": "tech",
-      "title": "The 5 Smart Glasses And AI Wearables Trends That Will Define 2027",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkx4cmFTdFpNTXVmN2drR25jcHY3OTVXazd0anFMVVlibDZRUTBNdFd2bm1VTWJIMHdLMTRQemlOQkZRRkQ3M2toZWttVTV1MlZQcFZGcUNKRm5lNGxMYmdicExuSHZVdEV0aEtDNENHTmhoYmF3UzVrNUpCeFFNWllMYXJ2VXUwcWQySU1ZeHh2cHVLeW9Ia3pfTGZBa25MeGNVWlRMSC1iejR3TlMzLWItdXIxaDJyU3c?oc=5",
-      "source": "Forbes",
-      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT"
+      "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
       "category": "CANADA",
       "className": "ca",
-      "title": "Pentagon prepared to 'up the ante' in defence dispute with Canada",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU5vMlByUXE1TktMQUNnZ3pfQW5JN0ttT0tzbndzQ0o1d0ZDQVpQV2lQd2FsVWxsNVZnMFo2ZXhxSTlJNFFNdV9JdTROQmxsWDBVLXlsdW9UYS1DaUpJdzJBaEtfOFVtMGZlcGFWX3BNNTVnR2xBUDRNdFFfaXp1WUNYck0?oc=5",
-      "source": "CBC",
-      "publishedAt": "Wed, 25 Nov 2026 00:08:00 GMT"
+      "title": "Niagara Health helping shape national strategy to strengthen Canada's clinical research workforce",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjgteFYwM1dXSFFlaEV4bzJDTzgzcTcwUVltaXlrd1gxS2F0S19zQXNhLWFRM0tocV9aNjV5dXZ3MThOVk42NTR6eW0yRTdJTTBwVGxzd1o3dWJIQmN3bDBpU1paSmVSZ0gwTjR1LUt4YkFCR29vakhPNWJHLTRvM2Z2NHhvQmNxN2pmYncwRnlwMkZvYlFqTlF5UWZuSURKMFQtZ1c3VmJKT3BVSUdKWmMwLS1CVEZxSEhfZ1dYQlRLemdCYm4yOE14VVNBSHJRR1Vib2ZQT0VRWFp0TFEyTUppRQ?oc=5",
+      "source": "Niagara Health",
+      "publishedAt": "Wed, 25 Nov 2026 20:15:00 GMT"
     }
   ]
 }
